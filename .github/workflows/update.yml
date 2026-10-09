@@ -1,0 +1,38 @@
+name: Weekly update
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+  push:
+    paths: ["data/papers.csv", "taxonomy.yaml", "templates/**", "tools/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest
+      - run: pytest -q
+      - name: Fetch all papers from OpenAlex (new papers + updated citation counts)
+        if: github.event_name != 'push'
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python tools/fetch_openalex.py
+      - run: python tools/build_readme.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md REVIEW_QUEUE.md categories data/papers.csv
+          git diff --cached --quiet || git commit -m "Update paper list ($(date +%F))" && git push

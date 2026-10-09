@@ -1,0 +1,609 @@
+# Taxonomy for drone thermography papers.
+#
+# Every pattern is a case-insensitive Python regular expression, matched at
+# word boundaries against title + abstract + keywords. A paper can get several
+# tags. Edit this file and run `python tools/retag.py` to re-tag without
+# hitting the API again.
+
+# ---------------------------------------------------------------------------
+# Relevance filter: a paper is kept only if it matches at least one platform
+# pattern AND at least one thermal pattern.
+# ---------------------------------------------------------------------------
+relevance:
+  platform:
+    - UAVs?
+    - UASs?
+    - sUAS
+    - drones?
+    - unmanned aerial
+    - unmanned aircraft
+    - RPAS
+    - remotely piloted
+    - quadcopters?
+    - quadrotors?
+    - multicopters?
+    - multi-?rotors?
+    - hexacopters?
+    - octocopters?
+    - fixed-wing UAV
+  thermal:
+    - thermal infrared
+    - thermograph\w*
+    - thermal (?:imag\w*|camera\w*|sensor\w*|data|band\w*|map\w*|orthomosaic\w*|survey\w*|remote sensing|signature\w*|anomal\w*|images?)
+    - TIR
+    - LWIR
+    - MWIR
+    - long-?wave infrared
+    - infrared (?:camera\w*|imag\w*|thermograph\w*|sensor\w*)
+    - IR (?:camera\w*|imag\w*)
+    - land surface temperatures?
+    - LST
+    - canopy temperatures?
+    - surface temperatures?
+    - leaf temperatures?
+    - crop water stress
+    - CWSI
+    - radiometric(?:ally)? (?:calibrat\w*|thermal|temperature)
+    - thermal (?:\w+ )?(?:imag\w*|camera\w*|sensor\w*|orthomosaic\w*|infrared)
+    - (?:UAV|drone|aerial)[- ]thermal
+    - thermal (?:UAV|drone|aerial)
+    - (?:RGB|visible)\s?[-–—]\s?(?:thermal|T|TIR|infrared)
+    - thermal (?:properties|patterns?|regimes?|maps?|mapping|mosaics?|signatures?|anomal\w*|hotspots?|contrast)
+    - (?:thermal|infrared) (?:videos?|footage|frames?|modality)
+    - temperature (?:maps?|mapping|images?)
+    - (?:RGB|visible|multispectral)(?:,| and| &) thermal
+    - thermal (?:and|&) (?:RGB|visible|multispectral)
+  # Papers that only match these get relevance "weak" (kept, but flagged for triage)...
+  thermal_weak:
+    - thermal
+  # ...and are dropped if they also match one of these.
+  exclude_if_weak:
+    - fuel cells?
+    - engines?
+    - thermal analysis
+    - hybrid (?:electric|power)
+    - thermal fog
+    - propulsion
+    - thermal (?:management|runaway|soaring|updrafts?|stability|conductivity|load|model of the battery)
+    - thermals
+    - battery thermal
+    - heat dissipation
+
+# ---------------------------------------------------------------------------
+# Application areas (what the thermal data is used FOR).
+# ---------------------------------------------------------------------------
+applications:
+  - slug: building-envelope
+    group: Built environment
+    name: Building envelope, roofs & heat loss
+    patterns:
+      - building envelopes?
+      - (?:building|façade|facade|roof|rooftop|wall)s? (?:inspections?|thermograph\w*|heat loss|insulation|defects?|diagnos\w*)
+      - U-values?
+      - thermal transmittance
+      - fa[cç]ades?
+      - roofs?
+      - heat loss\w*
+      - thermal bridg\w*
+      - insulation defects?
+      - air leakage
+      - energy audit\w*
+      - building energy
+      - retrofit\w*
+      - moisture (?:in|detection).{0,20}(?:roof|wall|building)
+  - slug: urban-heat
+    group: Built environment
+    name: Urban heat & microclimate
+    patterns:
+      - urban heat
+      - heat islands?
+      - UHI
+      - urban (?:thermal|microclimate|climate)
+      - outdoor thermal comfort
+      - thermal comfort
+      - street canyons?
+      - green roofs?
+      - mean radiant temperature
+      - (?:urban |outdoor )?thermal environments?
+  - slug: civil-infrastructure
+    group: Built environment
+    name: Bridges, pavements & civil structures
+    patterns:
+      - bridges?
+      - bridge decks?
+      - delaminat\w*
+      - concrete
+      - pavements?
+      - asphalt
+      - road (?:surface|inspection)
+      - tunnels?
+      - dams?
+      - structural health
+      - masonry
+      - sewers?
+  - slug: district-heating
+    group: Built environment
+    name: District heating & pipelines
+    patterns:
+      - district heating
+      - heating networks?
+      - (?:oil|gas|water|steam|heat|heating|buried|underground|district) pipelines?
+      - pipeline (?:inspection|leaks?|leakage|monitoring|integrity)
+      - pipe leak\w*
+      - underground pipes?
+      - water leak\w*
+      - leak detection
+      - steam
+  - slug: solar-pv
+    group: Energy
+    name: Solar PV inspection
+    patterns:
+      - photovoltaic\w*
+      - PV[- ]?(?:modules?|panels?|plants?|arrays?|systems?|farms?|power|inspection)
+      - solar (?:panels?|modules?|plants?|farms?|cells?|parks?|arrays?|power)
+  - slug: power-grid
+    group: Energy
+    name: Power lines, substations & electrical assets
+    patterns:
+      - power lines?
+      - transmission lines?
+      - distribution lines?
+      - substations?
+      - insulators?
+      - power transformers?
+      - electrical (?:equipment|components?|assets?|inspection)
+      - high-voltage
+      - overhead lines?
+  - slug: wind-energy
+    group: Energy
+    name: Wind turbines
+    patterns:
+      - wind turbines?
+      - turbine blades?
+      - wind farms?
+  - slug: industrial
+    group: Energy
+    name: Oil, gas & industrial facilities
+    patterns:
+      - oil (?:and|&) gas
+      - gas leak\w*
+      - methane
+      - storage tanks?
+      - oil spills?
+      - flares?
+      - chimneys?
+      - industrial (?:plants?|facilit\w*|inspection)
+      - boilers?
+      - refiner\w*
+      - petrochemical
+  - slug: agriculture-water-stress
+    group: Agriculture
+    name: Crop water stress, irrigation & evapotranspiration
+    patterns:
+      - water stress
+      - drought stress
+      - CWSI
+      - crop water
+      - irrigat\w*
+      - evapotranspiration
+      - stomatal conductance
+      - water status
+      - subsurface drainage
+      - drainage (?:systems?|tiles?|pipes?)
+      - stem water potential
+      - canopy temperatures?
+      - (?:TSEB|SEBAL|METRIC|energy balance)
+  - slug: crop-phenotyping
+    group: Agriculture
+    name: Crop phenotyping, health & yield
+    patterns:
+      - phenotyp\w*
+      - yield (?:prediction|estimation|forecast\w*)
+      - crops?
+      - wheat
+      - maize
+      - corn
+      - rice
+      - soybeans?
+      - cotton
+      - potato\w*
+      - vineyards?
+      - grapevines?
+      - orchards?
+      - citrus
+      - olive
+      - almond\w*
+      - plant (?:disease|health|stress)
+      - precision agricultur\w*
+      - breeding
+      - greenhouses?
+  - slug: livestock
+    group: Agriculture
+    name: Livestock & animal health
+    patterns:
+      - livestock
+      - cattle
+      - cows?
+      - sheep
+      - pigs?
+      - poultry
+      - grazing
+      - animal (?:health|welfare|body temperature)
+  - slug: forestry
+    group: Forestry & ecology
+    name: Forests, trees & vegetation
+    patterns:
+      - forests?
+      - forestry
+      - trees?
+      - tree crowns?
+      - bark beetles?
+      - pests?
+      - pine
+      - canopy (?:structure|height)
+      - mangroves?
+      - wetlands?
+      - peatlands?
+      - vegetation
+  - slug: wildlife
+    group: Forestry & ecology
+    name: Wildlife detection & counting
+    patterns:
+      - wildlife
+      - animals?
+      - deer
+      - koalas?
+      - birds?
+      - seals?
+      - marine mammals?
+      - dolphins?
+      - whales?
+      - cetaceans?
+      - sharks?
+      - turtles?
+      - crocodil\w*
+      - mammals?
+      - nests?
+      - fawns?
+      - census
+      - (?:population|animal) (?:surveys?|counts?|counting|estimat\w*)
+      - poach\w*
+      - bats?
+      - primates?
+      - ungulates?
+      - elephants?
+      - rhino\w*
+      - kangaroos?
+      - moose
+      - wild boars?
+      - boars?
+      - wild (?:animals?|pigs?)
+      - (?:hares?|rabbits?|foxes?|wolves|wolf)
+  - slug: water-hydrology
+    group: Water & coast
+    name: Rivers, groundwater & coastal water
+    patterns:
+      - streams?
+      - rivers?
+      - groundwater
+      - submarine groundwater discharge
+      - SGD
+      - springs?
+      - seepage
+      - (?:stream|river|water) temperature\w*
+      - thermal refug\w*
+      - hyporheic
+      - lakes?
+      - coastal
+      - estuar\w*
+      - beach\w*
+      - intertidal
+      - sea surface
+      - water (?:quality|surface)
+      - thermal plumes?
+      - effluent\w*
+      - discharge\w*
+  - slug: soil
+    group: Geoscience
+    name: Soil moisture & soil properties
+    patterns:
+      - soil moisture
+      - soil water content
+      - thermal inertia
+      - soil (?:temperature|properties|salinity)
+      - bare soil
+  - slug: volcano-geothermal
+    group: Geoscience
+    name: Volcanoes & geothermal areas
+    patterns:
+      - volcan\w*
+      - geotherm\w*
+      - fumarol\w*
+      - hydrotherm\w*
+      - lava
+      - craters?
+      - hot springs?
+  - slug: cryosphere
+    group: Geoscience
+    name: Glaciers, permafrost & snow
+    patterns:
+      - glacier\w*
+      - permafrost
+      - snow\w*
+      - sea ice
+      - ice
+      - debris-covered
+      - rock glaciers?
+      - frozen ground
+      - polar
+      - arctic
+      - antarctic\w*
+  - slug: geohazards-geology
+    group: Geoscience
+    name: Landslides, rock & geology
+    patterns:
+      - landslides?
+      - rock (?:slopes?|falls?|mass|faces?|fractures?)
+      - rockfalls?
+      - cliffs?
+      - slopes? stability
+      - geolog\w*
+      - fractures?
+      - litholog\w*
+      - outcrops?
+      - sinkholes?
+      - karst
+  - slug: mining-waste
+    group: Geoscience
+    name: Mining, landfills & coal fires
+    patterns:
+      - (?<!land)mines?
+      - mining
+      - coal (?:fires?|seams?|mines?)
+      - spontaneous combustion
+      - landfills?
+      - waste
+      - tailings
+      - spoil heaps?
+      - dumps?
+  - slug: wildfire
+    group: Hazards & emergency
+    name: Wildfire & fire monitoring
+    patterns:
+      - wildfires?
+      - forest fires?
+      - bushfires?
+      - fires?
+      - fire (?:front|detection|monitoring|spread|perimeter)
+      - burn\w*
+      - smoulder\w*
+      - smolder\w*
+      - flames?
+      - firefight\w*
+      - prescribed burns?
+  - slug: search-rescue
+    group: Hazards & emergency
+    name: Search & rescue, disaster response
+    patterns:
+      - search and rescue
+      - SAR missions?
+      - (?:missing|lost) persons?
+      - victims?
+      - disasters?
+      - emergency
+      - earthquakes?
+      - floods?
+      - avalanches?
+      - human (?:detection|bodies|body)
+      - survivors?
+  - slug: surveillance-detection
+    group: Security & computer vision
+    name: People, vehicle & object detection
+    patterns:
+      - pedestrian detection
+      - person detection
+      - people detection
+      - vehicle detection
+      - cars?
+      - trucks?
+      - ground vehicles?
+      - object detection
+      - (?:multi-?)?object tracking
+      - surveillance
+      - security
+      - border
+      - intrusion
+      - target detection
+      - small targets?
+      - YOLO\w*
+      - RGB-?T
+      - infrared small target
+      - crowds?
+      - crowd counting
+      - landmines?
+      - mines? detection
+      - UXO
+      - unexploded
+  - slug: heritage
+    group: Heritage
+    name: Archaeology & cultural heritage
+    patterns:
+      - archaeolog\w*
+      - archeolog\w*
+      - cultural heritage
+      - heritage
+      - historic\w* (?:buildings?|sites?|structures?)
+      - ruins?
+      - buried (?:structures?|features?|remains)
+      - monuments?
+  - slug: health-epidemiology
+    group: Health & public safety
+    name: Public health & body temperature screening
+    patterns:
+      - fever
+      - COVID\w*
+      - body temperature
+      - epidemic\w*
+      - pandemic\w*
+      - mosquito\w*
+      - malaria
+      - heat stress (?:in|of) (?:humans?|workers?|people)
+  - slug: counter-drone
+    group: Security & computer vision
+    name: Detecting & tracking drones (counter-UAS)
+    patterns:
+      - counter-?(?:UAS|UAV|drone)s?
+      - anti-?(?:UAV|drone)s?
+      - (?:drone|UAV) (?:detection|tracking)
+      - (?:detect\w*|track\w*) (?:of )?(?:small )?(?:drones?|UAVs?)
+      - tracking drones
+      - intruding drones?
+  - slug: navigation
+    group: Robotics & navigation
+    name: Navigation, landing & localization
+    patterns:
+      - odometry
+      - SLAM
+      - (?:auto-?|autonomous |precision )?landing
+      - localization
+      - GPS-denied
+      - GNSS-denied
+      - navigation
+      - obstacle avoidance
+      - path planning
+  - slug: methods-general
+    group: Methods & technology
+    name: Calibration, processing & sensor technology
+    fallback: true   # only assigned when no other application matched
+    patterns:
+      - calibrat\w*
+      - radiometric\w*
+      - temperature (?:drift|accuracy|measurement\w*|retrieval)
+      - emissivity
+      - accuracy
+      - registration
+      - co-?registration
+      - point clouds?
+      - photogrammetr\w*
+      - orthomosaic\w*
+      - orthophoto\w*
+      - mosaic\w*
+      - sharpening
+      - super-?resolution
+      - fusion
+      - uncooled
+      - microbolometer\w*
+      - sensors?
+      - cameras?
+      - thermograph\w*
+      - land surface temperature
+      - review
+      - overview
+
+# ---------------------------------------------------------------------------
+# Cross-cutting method tags (HOW the work is done). Shown as a column.
+# ---------------------------------------------------------------------------
+methods:
+  - slug: deep-learning
+    name: Deep learning
+    patterns:
+      - deep learning
+      - neural networks?
+      - CNNs?
+      - convolutional
+      - YOLO\w*
+      - U-?Net
+      - vision transformers?
+      - transformer-based
+      - Swin
+      - Faster R-CNN
+      - Mask R-CNN
+      - semantic segmentation
+      - instance segmentation
+  - slug: machine-learning
+    name: Machine learning
+    patterns:
+      - machine learning
+      - random forests?
+      - support vector
+      - SVM
+      - XGBoost
+      - gradient boosting
+  - slug: calibration
+    name: Radiometric calibration
+    patterns:
+      - radiometric(?:ally)? calibrat\w*
+      - (?:temperature|thermal) calibrat\w*
+      - emissivity
+      - atmospheric correction
+      - vignetting
+      - non-uniformity
+      - NUC
+      - temperature drift
+      - blackbody
+      - accuracy assessment
+  - slug: 3d-photogrammetry
+    name: 3D / photogrammetry
+    patterns:
+      - photogrammetr\w*
+      - structure from motion
+      - SfM
+      - point clouds?
+      - 3D (?:thermal|model\w*|reconstruction|mapping)
+      - orthomosaic\w*
+      - digital surface model
+      - DSM
+      - LiDAR
+  - slug: multisensor-fusion
+    name: Multi-sensor fusion
+    patterns:
+      - (?:image|data|sensor) fusion
+      - multispectral
+      - hyperspectral
+      - RGB and thermal
+      - RGB-?T
+      - visible and (?:thermal|infrared)
+      - LiDAR
+  - slug: dataset
+    name: Dataset / benchmark
+    patterns:
+      - (?:new|public|open|publicly available|benchmark|annotated|large-scale) datasets?
+      - benchmark\w*
+      - we (?:release|present|introduce) (?:a |the )?\w*\s?dataset
+  - slug: review
+    name: Review / survey
+    fields: title          # only matched against the title (plus OpenAlex type 'review')
+    patterns:
+      - (?:systematic |literature |state-of-the-art |comprehensive |critical )?review
+      - survey of
+      - meta-analysis
+      - bibliometric
+
+# ---------------------------------------------------------------------------
+# Thermal sensors / cameras commonly flown on drones (for the "sensor" column).
+# Key = display name, value = pattern.
+# ---------------------------------------------------------------------------
+sensors:
+  FLIR Vue Pro: FLIR Vue\s?Pro\w*
+  FLIR Duo: FLIR Duo\w*
+  FLIR Tau 2: Tau\s?2|Tau\s?640
+  FLIR Boson: Boson
+  FLIR Lepton: Lepton
+  FLIR A-series: FLIR A\d{2,3}\w*
+  DJI Zenmuse XT: Zenmuse XT(?!2|S)|DJI XT(?!2)
+  DJI Zenmuse XT2: Zenmuse XT2|DJI XT2
+  DJI Zenmuse H20T/N: H20[TN]
+  DJI Zenmuse H30T: H30T
+  DJI Mavic 2 Enterprise Advanced: Mavic 2 Enterprise|M2EA
+  DJI Mavic 3 Thermal: Mavic 3 (?:Thermal|T\b)|M3T
+  DJI Matrice 30T: M30T|Matrice 30T
+  DJI Zenmuse XT/XT2 (unspecified): Zenmuse
+  Workswell WIRIS: WIRIS|Workswell
+  Optris: Optris
+  ICI: ICI \d{4}|Infrared Cameras Inc
+  senseFly thermoMAP: thermoMAP|Duet T
+  MicaSense Altum: Altum
+  Teax ThermalCapture: ThermalCapture|TeAx
+  Jenoptik VarioCAM: VarioCAM
+  InfraTec: InfraTec
+  Parrot Anafi Thermal: Anafi (?:Thermal|USA)

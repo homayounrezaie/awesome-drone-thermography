@@ -1,0 +1,35 @@
+# Wind turbines
+
+[← back to overview](../README.md) · 29 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+
+| Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
+|---|---|---|---|--:|---|---|---|
+| 2026 | [Deblur of infrared thermal images of in-service wind turbine blade based on rotational motion flow](https://doi.org/10.1016/j.measurement.2026.122462) | Yunze He et al. | Measurement | 13 |  |  | 🔓 |
+| 2026 | [Advances, Challenges, and Recommendations for Non-Destructive Testing Technologies for Wind Turbine Blade Damage: A Review of the Literature from the Past Decade](https://doi.org/10.3390/s26061773) | Guodong Qin et al. | Sensors | 4 | Deep learning, Machine learning, Multi-sensor fusion, Review / survey |  | 🔓 |
+| 2026 | [Impact of wind farm on summer spatial distribution of roe deer Capreolus capreolus – a UAV-based study in central Poland](https://doi.org/10.1007/s10344-026-02060-4) | Michalina GMAJ et al. | European Journal of Wildlife Research | 2 |  | DJI Zenmuse H20T/N | 🔓 |
+| 2026 | [From Qualitative Localisation to Quantitative Verification: Integrating Active IR Thermography and Laser Scanning in Wind Turbine Blade Inspection](https://doi.org/10.3390/ma19061107) | Adam Stawiarski | Materials | 1 |  |  | 🔓 |
+| 2026 | [Structural health monitoring of wind turbines: Vibration- and image-based techniques](https://doi.org/10.1016/b978-0-443-38315-1.00023-4) | Marco Civera et al. | Elsevier eBooks | 1 |  |  |  |
+| 2026 | [UAV-Mounted infrared thermography–driven defect detection framework for wind turbine blades](https://doi.org/10.1080/17686733.2026.2648339) | Jianping Yu et al. | Quantitative InfraRed Thermography Journal | 1 | Deep learning |  |  |
+| 2026 | [A UAV-Mounted Sensor Network for Close-Range Inspection of Wind Turbine Rotor Blades](https://doi.org/10.48550/arxiv.2606.21220) | Jost Wittmann et al. | arXiv (Cornell University) | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2026 | [Cross-Sensor Consistency-Guided Dual-Spectrum Fusion for Offshore Wind Turbine Blade Defect Diagnosis and Risk Grading](https://doi.org/10.3390/s26123878) | Yue Wang et al. | Sensors | 0 | Multi-sensor fusion |  | 🔓 |
+| 2026 | [Drone-Based Multi-Modal Inspection of Wind Turbine Rotor Blades](https://doi.org/10.58286/33391) | Ramanan Sridaran Venkat et al. | e-Journal of Nondestructive Testing | 0 | Radiometric calibration, Multi-sensor fusion |  | 🔓 |
+| 2026 | [UAV-based infrared thermography for laminar–turbulent transition detection on wind turbines in operation: quantifying motion-blur effects using blade image velocity](https://doi.org/10.5194/wes-2026-79) | Lennart Rackwitz et al. | Wind Energy Science Discussions | 0 |  |  | 🔓 |
+| 2026 | [Wind turbine inspection and monitoring on an operational wind farm in Ireland](https://doi.org/10.1016/b978-0-443-38315-1.00018-0) | Vikram Pakrashi et al. | Elsevier eBooks | 0 |  |  |  |
+| 2025 | [Deep Learning in Defect Detection of Wind Turbine Blades: A Review](https://doi.org/10.1109/access.2025.3569799) | Katleho Masita et al. | IEEE Access | 25 | Deep learning, 3D / photogrammetry, Multi-sensor fusion, Review / survey |  | 🔓 |
+| 2025 | [Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection](https://doi.org/10.47839/ijc.23.4.3752) | Serhii Svystun et al. | International Journal of Computing | 13 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
+| 2025 | [A State-of-the-Art Review of Structural Health Monitoring Techniques for Wind Turbine Blades](https://doi.org/10.1007/s10921-025-01296-5) | Shah Abdul Haseeb et al. | Journal of Nondestructive Evaluation | 8 | Machine learning, Review / survey |  | 🔓 |
+| 2025 | [Enhanced Non-Destructive Testing of Small Wind Turbine Blades Using Infrared Thermography](https://doi.org/10.3390/machines13020108) | Majid Memari et al. | Machines | 8 | Deep learning |  | 🔓 |
+| 2025 | [UAV-Based Thermographic Inspection of Wind Turbine Blades for Structural Integrity Assessment: Preliminary Findings](https://doi.org/10.1016/j.prostr.2025.06.132) | Hugo Mesquita Vasconcelos et al. | Procedia Structural Integrity | 8 |  | DJI Zenmuse H20T/N | 🔓 |
+| 2025 | [Criticality Assessment of Wind Turbine Defects via Multispectral UAV Fusion and Fuzzy Logic](https://doi.org/10.3390/en18174523) | Pavlo Radiuk et al. | Energies | 5 | Deep learning, Multi-sensor fusion |  | 🔓 |
+| 2025 | [Three-Dimensional Defect Measurement and Analysis of Wind Turbine Blades Using Unmanned Aerial Vehicles](https://doi.org/10.3390/drones9050342) | Chin-Yuan Hung et al. | Drones | 3 |  |  | 🔓 |
+| 2024 | [Unmanned Aerial Vehicle (UAV)-Assisted Damage Detection of Wind Turbine Blades: A Review](https://doi.org/10.3390/en17153731) | Zengyi Zhang et al. | Energies | 41 | Review / survey |  | 🔓 |
+| 2024 | [Harnessing the power of thermal imagery and visual inspection- a mean for reliable damage detection of wind turbine rotor blades](https://doi.org/10.58286/29868) | Ramanan Sridaran Venkat et al. | e-Journal of Nondestructive Testing | 1 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2024 | [UAV-Based 3D-Calibration of Thermal Cameras for Bat Flight Monitoring in Large Outdoor Environments](https://doi.org/10.3390/rs16244682) | Christof Happ et al. | Remote Sensing | 1 |  |  | 🔓 |
+| 2024 | [Distributed Intelligent System Architecture for UAV-Assisted Monitoring of Wind Energy Infrastructure](https://doi.org/10.48550/arxiv.2412.09387) | Serhii Svystun et al. | arXiv (Cornell University) | 0 |  |  | 🔓 |
+| 2023 | [Thermal Inspection of Subsurface Defects in Wind Turbine Blade Segments Under the Natural Solar Condition](https://doi.org/10.1109/tie.2023.3335455) | Xiang Li et al. | IEEE Transactions on Industrial Electronics | 27 |  |  |  |
+| 2023 | [AQUADA PLUS: Automated damage inspection of cyclic-loaded large-scale composite structures using thermal imagery and computer vision](https://doi.org/10.1016/j.compstruct.2023.117085) | Xiao Dong Chen et al. | Composite Structures | 26 |  |  | 🔓 |
+| 2022 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) | Marco Civera et al. | Sensors | 187 | Review / survey |  | 🔓 |
+| 2020 | [From Land to Sea](https://doi.org/10.1201/9780429172410-16) | David R. Green et al. | CRC Press eBooks | 1 |  |  |  |
+| 2018 | [Identification of an effective nondestructive technique for bond defect determination in laminate composites—A technical review](https://doi.org/10.1177/0021998318766595) | Muhammad Tariq Asif et al. | Journal of Composite Materials | 39 | Review / survey |  | 🔓 |
+| 2018 | [WIND TURBINE MAINTENANCE. A REVIEW](https://doi.org/10.6036/8622) | Luís Hernández-Callejo et al. | DYNA | 5 | Review / survey |  |  |
+| 2015 | [Thermographic non-destructive inspection of wind turbine blades using unmanned aerial systems](https://doi.org/10.1179/1743289815y.0000000003) | Carlos Galleguillos et al. | Plastics Rubber and Composites Macromolecular Engineering | 94 |  |  |  |

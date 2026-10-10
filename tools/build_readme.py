@@ -162,6 +162,7 @@ def main() -> None:
 
     fill = {
         "{{TOTAL}}": str(len(public)),
+        "{{FULLTEXT}}": str(sum(r["relevance"] == "fulltext" and r["status"] != "excluded" for r in db)),
         "{{REVIEWED}}": str(sum(r["status"] == "included" for r in public)),
         "{{POSTED}}": str(sum(bool(r["posted"]) for r in public)),
         "{{N_CATEGORIES}}": str(len(apps)),

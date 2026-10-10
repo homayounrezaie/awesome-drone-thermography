@@ -57,8 +57,8 @@ From building heat loss to crop water stress, wildlife surveys to volcanoes: dro
 
 ## How this list is built
 
-1. **Search**: [`tools/fetch_openalex.py`](tools/fetch_openalex.py) queries OpenAlex titles and abstracts for *(drone terms)* AND *(thermal terms)*. It covers journal articles, reviews, preprints and book chapters, and excludes retracted works.
-2. **Relevance filter**: a paper is kept only if its title/abstract mentions a drone platform **and** a thermal-imaging term (see `relevance` in [`taxonomy.yaml`](taxonomy.yaml)).
+1. **Search**: [`tools/fetch_openalex.py`](tools/fetch_openalex.py) queries OpenAlex for *(drone terms)* AND *(thermal terms)*. It covers journal articles, conference papers, reviews, preprints, book chapters, books, dissertations, reports, datasets and software, and excludes retracted works.
+2. **Relevance filter**: a paper is listed here only if its title/abstract mentions a drone platform **and** a thermal-imaging term (see `relevance` in [`taxonomy.yaml`](taxonomy.yaml)). A further **{{FULLTEXT}}** papers mention drone thermal imaging only in their full text. They are kept in [`data/papers.csv`](data/papers.csv) with `relevance = fulltext` but not listed above.
 3. **Dedupe**: by OpenAlex ID, DOI and normalized title. Journal versions are preferred over preprints.
 4. **Tagging**: keyword rules assign application areas, methods and sensors. A paper can belong to several areas.
 5. **Human review**: papers are checked by hand over time (✅) and corrected in [`data/papers.csv`](data/papers.csv).

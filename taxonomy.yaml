@@ -34,8 +34,7 @@ relevance:
     - LWIR
     - MWIR
     - long-?wave infrared
-    - infrared (?:camera\w*|imag\w*|thermograph\w*|sensor\w*)
-    - IR (?:camera\w*|imag\w*)
+    - infrared thermograph\w*
     - land surface temperatures?
     - LST
     - canopy temperatures?
@@ -43,16 +42,31 @@ relevance:
     - leaf temperatures?
     - crop water stress
     - CWSI
-    - radiometric(?:ally)? (?:calibrat\w*|thermal|temperature)
+    - radiometric(?:ally)? (?:thermal|temperature)
     - thermal (?:\w+ )?(?:imag\w*|camera\w*|sensor\w*|orthomosaic\w*|infrared)
     - (?:UAV|drone|aerial)[- ]thermal
     - thermal (?:UAV|drone|aerial)
     - (?:RGB|visible)\s?[-–—]\s?(?:thermal|T|TIR|infrared)
-    - thermal (?:properties|patterns?|regimes?|maps?|mapping|mosaics?|signatures?|anomal\w*|hotspots?|contrast)
+    - thermal (?:patterns?|regimes?|maps?|mapping|mosaics?|signatures?|anomal\w*|hotspots?|contrast)
     - (?:thermal|infrared) (?:videos?|footage|frames?|modality)
     - temperature (?:maps?|mapping|images?)
     - (?:RGB|visible|multispectral)(?:,| and| &) thermal
     - thermal (?:and|&) (?:RGB|visible|multispectral)
+  # "Infrared" alone is ambiguous: often thermal (esp. in computer vision), but also
+  # near-infrared. These count as thermal unless the text also matches nir_context.
+  thermal_ambiguous:
+    - infrared (?:camera\w*|imag\w*|sensor\w*|videos?|targets?|detection)
+    - IR (?:camera\w*|imag\w*|sensor\w*)
+    - (?:RGB|visible)[- ]infrared
+    - infrared
+  nir_context:
+    - near[- ]infrared
+    - NIR
+    - multispectral
+    - NDVI
+    - red[- ]edge
+    - colou?r[- ]infrared
+    - CIR
   # Papers that only match these get relevance "weak" (kept, but flagged for triage)...
   thermal_weak:
     - thermal

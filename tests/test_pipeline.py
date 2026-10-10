@@ -42,7 +42,11 @@ def test_relevance():
     assert TAX.relevance("UAV thermal infrared imagery of crops") == "strong"
     assert TAX.relevance("Thermal management of drone batteries") == ""
     assert TAX.relevance("A drone study of thermal effects") == "weak"
+    assert TAX.relevance("UAV infrared human detection with YOLO") == "strong"
+    assert TAX.relevance("UAV infrared sensor for NDVI mapping") == "weak"  # near-infrared
     assert TAX.relevance("Thermal infrared satellite imagery") == ""  # no platform
+    # found only by full-text search: kept in its own tier
+    assert TAX.tag({"title": "Multi-sensor drone survey of a dam", "found_by": ["fulltext"]})["relevance"] == "fulltext"
 
 
 def test_tagging():

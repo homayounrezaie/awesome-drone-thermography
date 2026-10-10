@@ -1,6 +1,6 @@
 # Livestock & animal health
 
-[← back to overview](../README.md) · 31 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 43 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -9,6 +9,7 @@
 | 2026 | [Multimodal Detection Models for Poultry Fraud Monitoring on Jetson Nano](https://doi.org/10.33395/sinkron.v10i2.15884) | Rachmad Andri Atmoko et al. | SinkrOn | 1 | Deep learning, Machine learning, Multi-sensor fusion |  | 🔓 |
 | 2026 | [107. Gene Editing the Slick Mutation to Mitigate Fescue Toxicosis Losses](https://doi.org/10.1093/jas/skag057.001) | Lucas C S Branco et al. | Journal of Animal Science | 0 |  |  | 🔓 |
 | 2026 | [Geotecnologias](https://doi.org/10.4322/9786586819427-15) | José Ricardo Macedo Pezzopane et al. | Integração Lavoura-Pecuária-Floresta: | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2026 | [PCR Habiter la montagne. Une approche comparée des trajectoires des vallées pyrénéennes dans la diachronie, rapport 2025](https://openalex.org/W7209739770) | Christine Rendu et al. | HAL (Le Centre pour la Communication Scientifique Directe) | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
 | 2026 | [Reliable plateau livestock monitoring in complex environments via RGBT fusion tracking: a case study in Guide County, Qinghai Province](https://doi.org/10.1038/s41598-026-64858-1) | Zhitong Zhang et al. | Scientific Reports | 0 | Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2026 | [Remote thermal sensing in tropical cattle systems: a comparative study of silvopastoral and conventional pastures using drone-mounted infrared imaging](https://doi.org/10.3389/fanim.2026.1800196) | Christine Elisabeth Grudzinski et al. | Frontiers in Animal Science | 0 |  |  | 🔓 |
 | 2026 | [The ability to detect wild boars with increased body temperature in the natural environment with the use of unmanned aerial vehicles equipped with thermovision in two provinces in Poland](https://doi.org/10.24425/pjvs.2026.1268) | P. Wójcicka et al. | Polish Journal of Veterinary Sciences | 0 |  |  | 🔓 |
@@ -21,17 +22,28 @@
 | 2025 | [Scouting with drones to increase efficiency of locating wild pigs for removal](https://doi.org/10.1002/wsb.1619) | Justin W. Fischer et al. | Wildlife Society Bulletin | 1 |  |  | 🔓 |
 | 2025 | [Aerial Farming](https://doi.org/10.1201/9781003539629-9) | Saharsh Gavas et al. | Chapman & Hall/CRC eBooks | 0 | Multi-sensor fusion |  |  |
 | 2025 | [Harnessing Precision Livestock Farming: Advancements in Digital Technologies for Sustainable and Resilient Livestock Production](https://doi.org/10.37446/volbook022025/55-67) | Saalom King J et al. | Advances in Animal Sciences (Volume 1) | 0 | Deep learning, Machine learning |  |  |
+| 2025 | [Image Based Cattle Monitoring System](https://doi.org/10.1007/978-3-031-82475-3_14) | Bhagyashree Zala et al. | Lecture notes in computer science | 0 |  |  |  |
 | 2025 | [PSX-23 Use of unmanned aerial vehicle technologies to assess nutrient landscape of cattle pens managed with energy dense vs. low energy feeding programs.](https://doi.org/10.1093/jas/skaf300.593) | Logan E Diller et al. | Journal of Animal Science | 0 |  | DJI Zenmuse H20T/N | 🔓 |
 | 2025 | [Using Thermal Camera Drones in Beef Cattle Roundup](https://openalex.org/W7112146896) | Clawson et al. | Digital Commons - USU (Utah State University) | 0 |  |  |  |
 | 2024 | [Monitoring mammalian herbivores via convolutional neural networks implemented on thermal UAV imagery](https://doi.org/10.1016/j.compag.2024.108713) | Diego Bárbulo Barrios et al. | Computers and Electronics in Agriculture | 16 | Deep learning |  | 🔓 |
 | 2024 | [Mask R-CNN and Centroid Tracking Algorithm to Process UAV Based Thermal-RGB Video for Drylot Cattle Heat Stress Monitoring](https://doi.org/10.3390/drones8090491) | Keshawa M. Dadallage et al. | Drones | 8 | Deep learning, Multi-sensor fusion |  | 🔓 |
+| 2024 | [Investigating the Influence of the Environment on the Detection and Monitoring of Cattle with an Unmanned Aerial Vehicle using Infrared Radiometry](https://doi.org/10.1109/telecom63374.2024.10812223) | Hristo Hristov et al. | 2024 32nd National Conference with International Participation (TELECOM) | 2 |  |  |  |
 | 2024 | [An efficient Method for Evaluation of Unmanned Aerial Vehicles: A Case Study in Livestock](https://doi.org/10.61356/j.pl.2024.1206) | Amira Salam et al. | Precision livestock. | 1 | Multi-sensor fusion |  | 🔓 |
+| 2024 | [Investigating the Possibilities of Using Radiometry in the Infrared Spectrum for Drone Monitoring of Cattle Within Free-Range Farming in the Flat and Semi-Mountainous Part of Southeastern Balkan Peninsula](https://doi.org/10.1109/icest62335.2024.10639800) | Hristo Hristov et al. | International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST) | 1 |  |  |  |
 | 2024 | [APPLICATION OF DRONE-BASED REMOTE SENSING AND MACHINE LEARNING FOR REAL-TIME HERD HEALTH SURVEILLANCE AND BEHAVIORAL ABNORMALITY DETECTION](https://openalex.org/W7220821538) | Muhammad Bilal et al. | International Journal of Scientific Discoveries | 0 | Deep learning, Machine learning, Multi-sensor fusion |  | 🔓 |
+| 2024 | [Remote sensing of cattle raised in ICLF systems using drones: thermal comfort and reproductive indicators of interest](https://openalex.org/W7119267732) | Christine Elisabeth Grudzinski | LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas) | 0 |  |  |  |
 | 2024 | [Sustainable Approaches for Enhancing Livestock Production in Dryland Regions](https://doi.org/10.5958/2231-6701.2024.00031.x) | D.B.V. Ramana | Indian Journal of Dryland Agricultural Research and Development | 0 |  |  |  |
+| 2023 | [Use of Thermography Methods for Monitoring Grazing Livestock](https://doi.org/10.1109/icest58410.2023.10187214) | Tsvetan Ivanov Valkovski et al. | International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST) | 7 |  |  |  |
+| 2023 | [Aerial Sensor Data Guided Object Detection for Cattle Monitoring in Open Fields](https://doi.org/10.1109/icmew59549.2023.00090) | Fan Yang et al. | IEEE International Conference on Multimedia and Expo workshops | 2 | Multi-sensor fusion |  |  |
+| 2023 | [Drone raw images of cattle in french grazing areas](https://doi.org/10.5281/zenodo.8234155) | Adrien Lebreton | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |
+| 2022 | [Dataset of UAV thermal video sequences with annotations for MOTS benchmarking](https://doi.org/10.5281/zenodo.6370314) | Diego Bárbulo et al. | Socio-Environmental Systems Modeling | 0 | Deep learning, Dataset / benchmark | Parrot Anafi Thermal | 🔓 |
 | 2021 | [Review: Precision Livestock Farming technologies in pasture-based livestock systems](https://doi.org/10.1016/j.animal.2021.100429) | Chiara Aquilani et al. | animal | 316 | Review / survey |  | 🔓 |
 | 2021 | [Evaluation of proximal sensing technologies for mapping bovine urine patches under grazing pastures](https://doi.org/10.1016/j.compag.2021.106309) | Ben H. Jolly et al. | Computers and Electronics in Agriculture | 9 |  |  |  |
 | 2020 | [Application of forward‐looking infrared (FLIR) imaging from an unmanned aerial platform in the search for decomposing remains](https://doi.org/10.1111/1556-4029.14581) | Owyn Butters et al. | Journal of Forensic Sciences | 25 |  |  | 🔓 |
-| 2019 | [Employing False Color Infrared Cameras for Biomass Estimation on Natural Grassland](https://openalex.org/W3129189099) | Gustavo Togeiro de Alckmin et al. |  | 0 | Radiometric calibration, Multi-sensor fusion |  |  |
+| 2019 | [Linking Cattle, Forage, and Tree Production in Silvopastures](https://openalex.org/W2959316043) | Sarah Jane Thomsen | VTechWorks (Virginia Tech) | 0 |  |  |  |
+| 2019 | [Simulación de planificación de acciones en vehículos aéreos no tripulados aplicados a la ganadería de precisión](https://openalex.org/W3046372299) | Miguel García Serrano |  | 0 |  |  |  |
+| 2018 | [Detecting Location of Free Range Sheep - Using Unmanned Aerial Vehicles and Forward Looking Infrared Images](https://openalex.org/W2888701298) | Even Arneberg Rognlien et al. | NORA - Norwegian Open Research Archives | 0 | Deep learning, Machine learning |  | 🔓 |
 | 2017 | [Thermal Imagery to Count Cattle with UAV Technology in an Industrialized Beef Operation](https://openalex.org/W2605351462) | Claye A Harsany |  | 0 |  |  |  |
+| 2016 | [Pecora: Presentation of Free Range Sheep Information](https://openalex.org/W2554977495) | Julie Johnsen Kirkhus | BIBSYS Brage (BIBSYS (Norway)) | 0 |  |  | 🔓 |
 | 1982 | [Tropical pasture science](https://doi.org/10.1016/0308-521x(82)90066-x) | N.R. Brockington | Agricultural Systems | 2 |  |  |  |
 |  | [Assessing fine-scale vegetation composition and structure for Northern bobwhites in a proper cattle grazing regime in South Texas](https://openalex.org/W7202020636) | Jose Silverio Avila Sanchez |  | 0 |  |  |  |

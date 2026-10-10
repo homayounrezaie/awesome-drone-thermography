@@ -17,6 +17,8 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -26,9 +28,10 @@ jobs:
       - run: pytest -q
       - name: Fetch all papers from OpenAlex (new papers + updated citation counts)
         if: github.event_name != 'push'
-        env:
-          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
-        run: python tools/fetch_openalex.py
+        run: python tools/fetch_openalex.py --query core
+      - name: Fetch full-text tier (needs the OPENALEX_API_KEY secret; ~180 requests)
+        if: github.event_name != 'push' && env.OPENALEX_API_KEY != ''
+        run: python tools/fetch_openalex.py --query fulltext
       - run: python tools/build_readme.py
       - name: Commit changes
         run: |

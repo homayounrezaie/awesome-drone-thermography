@@ -20,7 +20,7 @@ TAXONOMY_PATH = ROOT / "taxonomy.yaml"
 AUTO_FIELDS = [
     "openalex_id", "doi", "title", "year", "type", "venue", "authors", "n_authors",
     "cited_by", "is_oa", "oa_url", "license", "relevance", "auto_tags", "auto_methods",
-    "auto_sensors", "first_seen",
+    "auto_sensors", "found_by", "first_seen",
 ]
 # Columns you edit by hand. The pipeline never touches them once set.
 MANUAL_FIELDS = [
@@ -102,7 +102,8 @@ def norm_title(title: str | None) -> str:
 
 def _preference(rec: dict) -> tuple:
     """Higher is better when two records describe the same paper."""
-    type_rank = {"article": 3, "review": 3, "book-chapter": 2, "preprint": 1}
+    type_rank = {"article": 4, "review": 4, "conference-paper": 3, "book-chapter": 3, "book": 3,
+                 "dissertation": 2, "report": 2, "preprint": 1}
     return (type_rank.get(rec.get("type", ""), 0), bool(rec.get("doi")), int(rec.get("cited_by") or 0))
 
 
@@ -170,6 +171,8 @@ class Taxonomy:
         rel = raw["relevance"]
         self.platform = _compile(rel["platform"])
         self.thermal = _compile(rel["thermal"])
+        self.thermal_ambiguous = _compile(rel.get("thermal_ambiguous") or ["(?!x)x"])
+        self.nir_context = _compile(rel.get("nir_context") or ["(?!x)x"])
         self.thermal_weak = _compile(rel.get("thermal_weak") or ["(?!x)x"])
         self.exclude_if_weak = _compile(rel.get("exclude_if_weak") or ["(?!x)x"])
         self.applications = [
@@ -197,7 +200,10 @@ class Taxonomy:
             return ""
         if self.thermal.search(text):
             return "strong"
-        if self.thermal_weak.search(text) and not self.exclude_if_weak.search(text):
+        if self.thermal_ambiguous.search(text) and not self.nir_context.search(text):
+            return "strong"
+        if (self.thermal_weak.search(text) or self.thermal_ambiguous.search(text)) \
+                and not self.exclude_if_weak.search(text):
             return "weak"
         return ""
 
@@ -224,8 +230,11 @@ class Taxonomy:
         sensors = [name for name, rx in self.sensors.items() if rx.search(text)]
         if "DJI Zenmuse XT/XT2 (unspecified)" in sensors and any(s.startswith("DJI Zenmuse") for s in sensors if "unspecified" not in s):
             sensors.remove("DJI Zenmuse XT/XT2 (unspecified)")
+        rel = self.relevance(text)
+        if not rel and "fulltext" in (rec.get("found_by") or []):
+            rel = "fulltext"  # thermal imaging is only mentioned in the body text
         return {
-            "relevance": self.relevance(text),
+            "relevance": rel,
             "auto_tags": ";".join(apps),
             "auto_methods": ";".join(methods),
             "auto_sensors": ";".join(sensors),

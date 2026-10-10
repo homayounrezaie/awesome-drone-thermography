@@ -1,6 +1,6 @@
 # Solar PV inspection
 
-[← back to overview](../README.md) · 234 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 233 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -54,7 +54,6 @@
 | 2026 | [Solar Hotspot Detection Using VHDL-Simulated Fixed-Point SVM: A Methodology Toward FPGA Realization](https://doi.org/10.54389/fnsb7045) | Nick Fernando et al. | Journal of Advances in Engineering and Technology | 0 | Deep learning, Machine learning |  | 🔓 |
 | 2026 | [SolarFCD: A Large-Scale Dataset and Benchmark for Solar Fault Classification in Photovoltaic Systems](https://doi.org/10.48550/arxiv.2604.23662) | Misbah Ijaz et al. | arXiv (Cornell University) | 0 | Dataset / benchmark |  | 🔓 |
 | 2026 | [SolarIR-DETR: a lightweight transformer for UAV-assisted thermal hotspot detection in solar photovoltaic panels](https://doi.org/10.1038/s41598-026-50451-z) | Zhipeng Li et al. | Scientific Reports | 0 | Deep learning |  | 🔓 |
-| 2026 | [Strategy for simple, on-site failure analysis: investigating bubbles and burn marks in backsheets of PV modules](https://doi.org/10.1051/epjpv/2025029) | Bernhardt Käßer et al. | EPJ Photovoltaics | 0 |  |  | 🔓 |
 | 2026 | [Sustainability of Photovoltaic Power Plants in Desert Environments: From Design to Maintenance Strategies](https://doi.org/10.1051/e3sconf/202669902001/pdf) | Pierre‐Olivier Logerais | Springer Link (Chiba Institute of Technology) | 0 |  |  | 🔓 |
 | 2025 | [AI-Integrated autonomous robotics for solar panel cleaning and predictive maintenance using drone and ground-based systems](https://doi.org/10.1038/s41598-025-17313-6) | Indra Kishor et al. | Scientific Reports | 35 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2025 | [Anomaly Detection for PV Modules Using Multi-Modal Data Fusion in Aerial Inspections](https://doi.org/10.1109/access.2025.3570815) | Lourenço Sousa de Pinho et al. | IEEE Access | 17 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |

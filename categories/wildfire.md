@@ -1,6 +1,6 @@
 # Wildfire & fire monitoring
 
-[← back to overview](../README.md) · 241 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 240 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -48,7 +48,6 @@
 | 2026 | [Remote Sensing Identification and Extraction Algorithms for Coal Fire Risk Areas: A Case Study of the Xingsheng Open-Pit Coal Mine in Xinjiang, China](https://doi.org/10.3390/fire9080345) | Penghui Jia et al. | Fire | 0 |  |  | 🔓 |
 | 2026 | [Research on adaptive compensation methods for infrared temperature sensing errors in drones for wildfire monitoring](https://doi.org/10.1016/j.infrared.2026.106591) | Yue Ma et al. | Infrared Physics & Technology | 0 |  |  |  |
 | 2026 | [SBDM-YOLO: an enhanced object detection network with adaptive boundary selection for straw burning monitoring via UAV RGB-TIR fusion](https://doi.org/10.1038/s41598-026-67544-4) | Fuheng Qu et al. | Scientific Reports | 0 | Deep learning |  | 🔓 |
-| 2026 | [Strategy for simple, on-site failure analysis: investigating bubbles and burn marks in backsheets of PV modules](https://doi.org/10.1051/epjpv/2025029) | Bernhardt Käßer et al. | EPJ Photovoltaics | 0 |  |  | 🔓 |
 | 2026 | [Surface-Subsurface Thermal Correspondence over Coal Fire Areas with UAV Thermal Infrared Remote Sensing and Subsurface Temperature Field Reconstruction](https://doi.org/10.3390/rs18111676) | Nianbin Zhang et al. | Remote Sensing | 0 |  |  | 🔓 |
 | 2026 | [Through-foliage surface temperature reconstruction for early wildfire detection](https://doi.org/10.1038/s44488-026-00012-0) | Mohamed Youssef et al. | Communications AI & Computing | 0 | Machine learning |  | 🔓 |
 | 2026 | [Toward autonomous wildfire management: Advances in multimodal sensing, AI detection, sensor fusion, estimation and decision support review](https://doi.org/10.1016/j.rineng.2026.112218) | Tony Kairouz et al. | Results in Engineering | 0 | Deep learning, Machine learning, Multi-sensor fusion, Review / survey |  | 🔓 |

@@ -2,15 +2,18 @@
 
 Papers that need a human decision. Set `status` to `included` or `excluded` in `data/papers.csv`, or set `tags` by hand.
 
-## No application tag (48)
+## No application tag (52)
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
+| 2020 | [Advanced Materials and Technologies for Compressor Blades of Small Turbofan Engines](https://doi.org/10.3390/aerospace8010001) | Dmytro V. Pavlenko et al. | Aerospace | 53 |  |  | 🔓 |
+| 2022 | [Fused Filament Fabrication of Short Glass Fiber-Reinforced Polylactic Acid Composites: Infill Density Influence on Mechanical and Thermal Properties](https://doi.org/10.3390/polym14224988) | Lucia-Antoneta Chicoş et al. | Polymers | 40 |  |  | 🔓 |
 | 2024 | [Regenerated Cellulose/Lignin Composite Aerogel with Unique Toast‐Like Structure and Their Potential Applications in Thermal Camouflage](https://doi.org/10.1002/adfm.202414696) | Zhiyu Huang et al. | Advanced Functional Materials | 38 |  |  |  |
 | 2024 | [The Effects of Printing Temperature on the Mechanical Properties of 3D-Printed Acrylonitrile Butadiene Styrene](https://doi.org/10.3390/app14083376) | Osman Ülkir et al. | Applied Sciences | 38 |  |  | 🔓 |
 | 1988 | [Quaternary extinctions. A prehistoric revolution](https://doi.org/10.1016/0031-0182(88)90148-4) | William A. Clemens | Palaeogeography Palaeoclimatology Palaeoecology | 33 |  |  |  |
 | 2017 | [Obstacle Detection System for Small UAVs using ADS-B and Thermal Imaging](https://doi.org/10.1007/s10846-017-0529-2) | Adrián Carrio et al. | Journal of Intelligent & Robotic Systems | 31 |  |  |  |
 | 2018 | [Multiobjective Coordinated Scheduling of Energy and Flight for Hybrid Electric Unmanned Aircraft Microgrids](https://doi.org/10.1109/tie.2018.2860569) | Sidun Fang et al. | IEEE Transactions on Industrial Electronics | 28 |  |  |  |
+| 2021 | [Axial-Flux Permanent-Magnet Generator Design for Hybrid Electric Propulsion Drone Applications](https://doi.org/10.3390/en14248509) | Ji-Young Lee et al. | Energies | 17 |  |  | 🔓 |
 | 2021 | [Identifying optimal wavelengths to maximise the detection rates of marine fauna from aerial surveys](https://doi.org/10.1016/j.biocon.2021.109102) | Andrew P. Colefax et al. | Biological Conservation | 15 | Multi-sensor fusion |  |  |
 | 2021 | [UV Curable Coatings Based on Urethane Acrylates Containing Eugenol and Evaluation of Their Antimicrobial Activity](https://doi.org/10.3390/coatings11121556) | Paulina Bednarczyk et al. | Coatings | 14 |  |  | 🔓 |
 | 2019 | [Bi-dimensional Empirical Mode Decomposition Based Contrast Enhancement Technique for UAV Thermal Images](https://doi.org/10.1080/03772063.2019.1619487) | R. Thillainayagi et al. | IETE Journal of Research | 13 |  |  |  |
@@ -30,7 +33,6 @@ Papers that need a human decision. Set `status` to `included` or `excluded` in `
 | 2023 | [Target Acquisition for Collimation System of Wireless Quantum Communication Networks in Low Visibility](https://doi.org/10.3390/e25101381) | Keyu Li et al. | Entropy | 1 |  |  | 🔓 |
 | 2020 | [LEGAL REGULATION OF THE USE OF UNMANNED AERIAL VEHICLES IN THE PENAL SYSTEM](https://doi.org/10.37523/sui.2020.39.3.004) | Анна Николаевна Королева | Vestnik Samarskogo iuridicheskogo instituta | 1 |  |  |  |
 | 2026 | [ANÁLISE ECONÔMICA DE CUSTOS OPERACIONAIS ENTRE DIFERENTES TÉCNOLOGIAS DE APLICAÇÃO: DRONE DE PULVERIZAÇÃO X PULVERIZADOR AUTOPROPELIDO](https://doi.org/10.36238/2359-5787.2026.v12n62.1966) | Igor Augusto Marques et al. | Revista Acadêmica Online | 0 |  |  | 🔓 |
-| 2026 | [Assessing the Biogeophysical Cooling Potential of Constructed Prairie with Eddy Covariance & Thermal UAS Remote Sensing](https://doi.org/10.2139/ssrn.6681399) | Riley Pacer et al. | SSRN Electronic Journal | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2026 | [DESIGN OF TECHNOLOGY FOR MANUFACTURING MULTIFUNCTIONAL MULTISPECTRAL CAMOUFLAGE MATERIALS FOR WEAPONS SYSTEMS](https://doi.org/10.52058/2695-1592-2026-2(57)-300-308) | Alina Lytvyn et al. | Věda a perspektivy | 0 | Multi-sensor fusion |  | 🔓 |
 | 2026 | [DEVELOPMENT AND MODELING OF SMALL-SIZED AIR TARGET SIMULATION MEANS BASED ON MULTICOPTERS WITH COMBINED RADAR-THERMAL EMISSION](https://openalex.org/W7220042919) | Sattarov Rustam Khursanovich | Modern American Journal of Engineering, Technology, and Innovation | 0 |  |  | 🔓 |
 | 2026 | [Discrete Admissible Regimes in Unified Recursion Theory: Operator Closure, Constraint Topology, and the Necessity of Five Operators](https://doi.org/10.5281/zenodo.18148192) | Morgan Baggs | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |
@@ -40,6 +42,7 @@ Papers that need a human decision. Set `status` to `included` or `excluded` in `
 | 2026 | [Optical-Information Support of Artifact Detection by Robotic Complex on a Complex Background](https://doi.org/10.1007/978-3-032-02717-7_17) | Vadim V. Borisov et al. | Studies in systems, decision and control | 0 |  |  |  |
 | 2026 | [STRUCTURED THERMAL REPRESENTATION OF A BRUSHLESS DC MOTOR BASED ON THE ANALYSIS OF INFRARED IMAGES](https://doi.org/10.21685/2307-4205-2026-1-5) | Andrey V. Zayara et al. | Reliability and Quality of Complex Systems | 0 |  |  | 🔓 |
 | 2026 | [Structured Thermal Representation of a Brushless DC Motor Based on Infrared Image Analysis](https://doi.org/10.1134/s1063784226700556) | A.V. Zayara et al. | Technical Physics | 0 |  |  |  |
+| 2026 | [The Effect of Hybrid Polylactic Acid/Wood/Carbon Composite Material on Mechanical and Thermal Properties for Drone Structure](https://doi.org/10.30880/paat.2026.06.01.003) | Yashlen Pichyalagan et al. | Progress in Aerospace and Aviation Technology | 0 |  |  | 🔓 |
 | 2026 | [Thermal-Adaptive UAV Skins for High-Altitude Indian Missions](https://doi.org/10.22541/au.176800048.81294104/v1) | Mokshith Sharma T P |  | 0 |  |  | 🔓 |
 | 2026 | [Zoom Long-Wave Infrared Constant Ground Resolution Imaging Optical System Design](https://doi.org/10.3390/photonics13040332) | Zhiqiang Yang et al. | Photonics | 0 |  |  | 🔓 |
 | 2025 | [A Wide Field of View and Broadband Infrared Imaging System Integrating a Dispersion-Engineered Metasurface](https://doi.org/10.3390/photonics12101033) | Bo Liu et al. | Photonics | 0 |  |  | 🔓 |
@@ -48,6 +51,7 @@ Papers that need a human decision. Set `status` to `included` or `excluded` in `
 | 2025 | [Generating thermal 3D models of buildings in vulnerable neighbourhoods from uncrewed aerial vehicle (UAV)-based thermal images](https://doi.org/10.25598/agit/2025-63) | M.Y. Joshi et al. | ePLUS | 0 | 3D / photogrammetry |  | 🔓 |
 | 2025 | [Simplifying Remote Sensing of Biocrusts with Drone Imagery and Machine Learning](https://doi.org/10.2139/ssrn.5107653) | Jana Stewart et al. | SSRN Electronic Journal | 0 | Machine learning, Multi-sensor fusion |  | 🔓 |
 | 2025 | [Viabilidade econômico-financeira de pulverizadores: autopropelido e drones](https://doi.org/10.47236/2594-7036.2025.v9.1693) | Walter Roberto Vergara et al. | Revista Sítio Novo | 0 |  |  | 🔓 |
+| 2024 | [Weight Minimization of an Outer-Rotor Permanent Magnet Synchronous Motor for UAVs Considering Thermal Properties](https://doi.org/10.4283/jkms.2024.34.5.171) | Young‐Min Kim et al. | Journal of the Korean Magnetics Society | 0 |  |  |  |
 | 2022 | [Pemantauan Cerdas Berbasis Drone Thermal: Membangun Data Keanekaragaman Hayati Indonesia](https://doi.org/10.29244/agro-maritim.v4.i1.8) | Dede Aulia Rahman et al. | Policy Brief Pertanian Kelautan dan Biosains Tropika | 0 |  |  |  |
 | 2020 | [RÉSUMÉ](https://doi.org/10.1051/978-2-7598-1813-6.c003) | Académie des technologies | EDP Sciences eBooks | 0 |  |  | 🔓 |
 | 2014 | [노즐형상 및 대기조건에 따른 항공기의 플룸 IR 신호 연구](https://openalex.org/W2136222000) | 강동우 et al. | 한국항공우주학회지 | 0 |  |  |  |
@@ -56,7 +60,7 @@ Papers that need a human decision. Set `status` to `included` or `excluded` in `
 |  | [Finite Horizon Nonlinear Suboptimal Control for an Autonomous Soaring UAV](https://openalex.org/W7110680150) | David Ã ngeles-Rojas et al. | RePEc: Research Papers in Economics | 0 |  |  |  |
 
 
-## Weak relevance: only says "thermal" (814)
+## Weak relevance: only says "thermal" (813)
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -684,7 +688,6 @@ Papers that need a human decision. Set `status` to `included` or `excluded` in `
 | 2025 | [APPLICATION OF FUZZY LOGIC METHODS TO DEVELOP A QUADCOPTER LANDING CONTROL SYSTEM](https://doi.org/10.17721/2519-481x/2025/88-05) | С.В. Лєнков et al. | Collection of scientific works of the Military Institute of Kyiv National Taras Shevchenko University | 0 |  |  | 🔓 |
 | 2025 | [Advancements in MEMS gyroscopes: Piezoelectric plate-based devices for enhanced precision and stability in microelectromechanical systems](https://doi.org/10.26634/jele.15.2.21464) | Eswaran Ushaa et al. | i-manager’s Journal on Electronics Engineering | 0 |  |  |  |
 | 2025 | [Analisis Kekuatan Material 3D Printing dengan Variasi Infill Pattern Menggunakan Filamen PETG dan Polycarbonate](https://doi.org/10.54706/senastindo.v7.2025.457) | Ilham Rizky Rahadyan et al. | Prosiding Seminar Nasional Sains Teknologi dan Inovasi Indonesia (SENASTINDO) | 0 |  |  | 🔓 |
-| 2025 | [Analysis and load testing of a 452.9m long footbridge over the Vistula River in Poland](https://doi.org/10.1201/9781003677895-207) | Mikołaj Miśkiewicz et al. | CRC Press eBooks | 0 |  |  |  |
 | 2025 | [Assessment of Coastal and Fluvial Morphodynamic Changes Using Structure-for-Motion: A Case Study of the Sfântu Gheorghe Mouth (Danube Delta, Romania)](https://doi.org/10.29227/im-2025-02-03-15) | Andrei Gabriel Dragoș et al. | Inżynieria Mineralna | 0 | 3D / photogrammetry |  | 🔓 |
 | 2025 | [CITIZENS_HANDBOOK_V1.1](https://doi.org/10.17605/osf.io/tsmdp) | Michael Warren Webb (Chris Appel | OSF Preprints (OSF Preprints) | 0 |  |  | 🔓 |
 | 2025 | [COMPLEX GEOPHYSICAL STUDIES OF THE PODYMALOVO-1 GOLDEN HORDE SETTELMENT IN THE BASHKIRIAN URALS](https://doi.org/10.30759/1728-9718-2025-1(86)-180-190) | Ainur I. Tuzbekov et al. | Ural Historical Journal | 0 |  |  | 🔓 |

@@ -1,6 +1,6 @@
 # Wind turbines
 
-[← back to overview](../README.md) · 29 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 30 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -30,6 +30,7 @@
 | 2023 | [AQUADA PLUS: Automated damage inspection of cyclic-loaded large-scale composite structures using thermal imagery and computer vision](https://doi.org/10.1016/j.compstruct.2023.117085) | Xiao Dong Chen et al. | Composite Structures | 26 |  |  | 🔓 |
 | 2022 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) | Marco Civera et al. | Sensors | 187 | Review / survey |  | 🔓 |
 | 2020 | [From Land to Sea](https://doi.org/10.1201/9780429172410-16) | David R. Green et al. | CRC Press eBooks | 1 |  |  |  |
+| 2020 | [ผลตภณฑชวภาพสำหรบวสดเชงวศวกรรมจากอพอกซเรซนทปรบปรงดวย ยางธรรมชาตอพอกไซดและนาโนเซลลโลส](https://openalex.org/W7215171950) | Aunnuda Lanna et al. | Journal for Community Development and Life Quality | 0 |  |  | 🔓 |
 | 2018 | [Identification of an effective nondestructive technique for bond defect determination in laminate composites—A technical review](https://doi.org/10.1177/0021998318766595) | Muhammad Tariq Asif et al. | Journal of Composite Materials | 39 | Review / survey |  | 🔓 |
 | 2018 | [WIND TURBINE MAINTENANCE. A REVIEW](https://doi.org/10.6036/8622) | Luís Hernández-Callejo et al. | DYNA | 5 | Review / survey |  |  |
 | 2015 | [Thermographic non-destructive inspection of wind turbine blades using unmanned aerial systems](https://doi.org/10.1179/1743289815y.0000000003) | Carlos Galleguillos et al. | Plastics Rubber and Composites Macromolecular Engineering | 94 |  |  |  |

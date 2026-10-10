@@ -1,6 +1,6 @@
 # People, vehicle & object detection
 
-[← back to overview](../README.md) · 545 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 546 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -447,6 +447,7 @@
 | 2021 | [Infrared Small UAV Target Detection Based on Residual Image Prediction via Global and Local Dilated Residual Networks](https://doi.org/10.1109/lgrs.2021.3085495) | Houzhang Fang et al. | IEEE Geoscience and Remote Sensing Letters | 81 | Deep learning |  |  |
 | 2021 | [UAV-Based Heating Requirement Determination for Frost Management in Apple Orchard](https://doi.org/10.3390/rs13020273) | Wenan Yuan et al. | Remote Sensing | 42 | Deep learning |  | 🔓 |
 | 2021 | [An improved mask-RCNN algorithm for UAV TIR video stream target detection](https://doi.org/10.1016/j.jag.2021.102660) | Xiang Ren et al. | International Journal of Applied Earth Observation and Geoinformation | 34 | Deep learning |  | 🔓 |
+| 2021 | [Detection of small targets in the infrared: an infrared search and track tutorial](https://doi.org/10.1364/ao.424767) | Ronald G. Driggers et al. | Applied Optics | 33 |  |  |  |
 | 2021 | [A cooperative crowdsensing system based on flying and ground vehicles to control respiratory viral disease outbreaks](https://doi.org/10.1016/j.adhoc.2021.102699) | Yesin Sahraoui et al. | Ad Hoc Networks | 24 |  |  |  |
 | 2021 | [YOLOv4 Object Detection Model for Nondestructive Radiographic Testing in Aviation Maintenance Tasks](https://doi.org/10.2514/1.j060860) | Zhi-Hao Chen et al. | AIAA Journal | 21 | Deep learning, Machine learning |  |  |
 | 2021 | [Digital surveillance technologies in conservation and their social implications](https://doi.org/10.1093/oso/9780198850243.003.0012) | Trishant Simlai et al. | Conservation Technology | 20 |  |  |  |

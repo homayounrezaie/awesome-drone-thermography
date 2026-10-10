@@ -1,6 +1,6 @@
 # Calibration, processing & sensor technology
 
-[← back to overview](../README.md) · 270 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 271 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -23,6 +23,7 @@
 | 2026 | [Developing a New UAS Method for Estimating Heat Exposure on Western US Trails](https://doi.org/10.26076/13fa-yc10) | Jared Young | Digital Commons - USU (Utah State University) | 0 |  |  | 🔓 |
 | 2026 | [Drone-based thermal imaging of subsurface architecture: methodological insights and discoveries at Iron Age Raki (Oman)](https://doi.org/10.1016/j.jasrep.2026.105569) | Paige E. Paulsen et al. | Journal of Archaeological Science Reports | 0 | Radiometric calibration |  | 🔓 |
 | 2026 | [FTP-Stitch: rapid UAV thermal infrared remote sensing image stitching based on feature alignment and flight trajectory preservation](https://doi.org/10.1016/j.compag.2026.112260) | Jiong Lin et al. | Computers and Electronics in Agriculture | 0 | Radiometric calibration |  |  |
+| 2026 | [HGSD: A robust registration method for visible-infrared UAV images](https://doi.org/10.1016/j.optlaseng.2026.109991) | Mengting Chen et al. | Optics and Lasers in Engineering | 0 | Multi-sensor fusion |  |  |
 | 2026 | [Integration of UAV-based infrared thermography with building information modeling and digital twins for infrastructure inspection: a review](https://doi.org/10.1007/s41062-026-02861-1) | Ri Na et al. | Innovative Infrastructure Solutions | 0 | Review / survey |  | 🔓 |
 | 2026 | [Interim report on contribution to Flagship roadmapping and standardization activities (D7.5)](https://doi.org/10.5281/zenodo.19815442) | Hamed Pourkheirollah | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |
 | 2026 | [KIL: Kinetic Integrity Layer — A Behavioural Veto Architecture for Drone Safety Middleware in Defence-Adjacent Agricultural Airspace](https://doi.org/10.5281/zenodo.20919868) | Mahmoed Nida | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |

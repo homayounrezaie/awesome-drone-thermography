@@ -1,6 +1,6 @@
 # Detecting & tracking drones (counter-UAS)
 
-[← back to overview](../README.md) · 86 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 85 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -75,7 +75,6 @@
 | 2022 | [RESEARCH ON THE APPLICATION OF INTELLIGENCE DRONS IN DIVISIONS OF THE ARMED FORCES OF UKRAINE](https://doi.org/10.37129/2313-7509.2022.17.14-20) | V.V. Mamich et al. | Collection of scientific works of Odesa Military Academy | 0 |  |  |  |
 | 2021 | [Unmanned Aerial Vehicle Visual Detection and Tracking using Deep Neural Networks: A Performance Benchmark](https://doi.org/10.1109/iccvw54120.2021.00142) | Brian K. S. Isaac-Medina et al. | arXiv (Cornell University) | 106 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2021 | [The 2nd Anti-UAV Workshop & Challenge: Methods and Results](https://doi.org/10.48550/arxiv.2108.09909) | Jian Ying Zhao et al. | arXiv (Cornell University) | 9 | Dataset / benchmark |  | 🔓 |
-| 2021 | [A Survey of Strategies, and Procedures for Detecting Drone Utilizing Sound, Radar, Thermal Infrared Sensor and Video Applications](https://doi.org/10.31645/jisrc.21.19.1.6) | Hassan Aldawsari | Journal of Independent Studies and Research - Computing | 0 | Machine learning, Review / survey |  | 🔓 |
 | 2020 | [Comparison of Cooled and Uncooled IR Sensors by Means of Signal-to-Noise Ratio for NDT Diagnostics of Aerospace Grade Composites](https://doi.org/10.3390/s20123381) | Shakeb Deane et al. | Sensors | 56 |  |  | 🔓 |
 | 2020 | [Trialling a real-time drone detection and validation protocol for the koala (Phascolarctos cinereus)](https://doi.org/10.1071/am20043) | Chad T. Beranek et al. | Australian Mammalogy | 33 |  |  |  |
 | 2020 | [Analysis of a Quadcopter’s Acoustic Signature in Different Flight Regimes](https://doi.org/10.1109/access.2020.2965177) | Ivan Djurek et al. | IEEE Access | 22 |  |  | 🔓 |

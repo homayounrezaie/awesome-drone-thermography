@@ -1,6 +1,6 @@
 # Urban heat & microclimate
 
-[← back to overview](../README.md) · 153 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 154 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -137,6 +137,7 @@
 | 2021 | [Urban Green Infrastructure Inventory as a Key Prerequisite to Sustainable Cities in Ukraine under Extreme Heat Events](https://doi.org/10.3390/su13052470) | Oleksandra Khalaim et al. | Sustainability | 26 |  |  | 🔓 |
 | 2021 | [Urban Land Surface Temperature Monitoring and Surface Thermal Runoff Pollution Evaluation Using UAV Thermal Remote Sensing Technology](https://doi.org/10.3390/su132011203) | Shanshan Xu et al. | Sustainability | 19 |  |  | 🔓 |
 | 2021 | [Spatially Resolved Analysis of Urban Thermal Environments Based on a Three-Dimensional Sampling Algorithm and UAV-Based Radiometric Measurements](https://doi.org/10.3390/s21144847) | Daniel Rüdisser et al. | Sensors | 15 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2021 | [Adapting to Climate Change: Green Areas in Cities as Cooling Safeguards](https://doi.org/10.1007/978-3-030-22759-3_2-1) | Oleksandra Khalaim | Springer eBooks | 2 |  |  |  |
 | 2021 | [Urban Canyon in the CBD of Rio de Janeiro (Brazil): Thermal Profile of Avenida Rio Branco during Summer](https://doi.org/10.3390/atmos13010027) | Lidiane de Oliveira Lemos et al. | Atmosphere | 2 |  |  | 🔓 |
 | 2021 | [Urban Canyon in the CBD of Rio de Janeiro (Brazil): Avenida Rio Branco during Summer](https://doi.org/10.20944/preprints202107.0272.v1) | Lidiane de Oliveira Lemos et al. | Preprints.org | 1 |  |  | 🔓 |
 | 2021 | [Application of Drone Thermal Infrared Image for Thermal Environment Analysis: For Samgeori Park in Cheonan-si, Chungcheongnam-do](https://doi.org/10.14383/cri.2021.16.2.157) | 대전세종연구원 세종연구실 et al. | Journal of Climate Research | 0 |  |  |  |

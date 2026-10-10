@@ -1,6 +1,6 @@
 # Navigation, landing & localization
 
-[← back to overview](../README.md) · 146 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 148 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -8,6 +8,7 @@
 | 2026 | [Development of a Thermal Helipad for UAVs and Detection with Deep Learning](https://doi.org/10.3390/drones10040266) | ERSİN DEMİRAY et al. | Drones | 2 | Deep learning, Radiometric calibration, Multi-sensor fusion |  | 🔓 |
 | 2026 | [SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization](https://doi.org/10.1109/jstars.2026.3716172) | Xi Zhang et al. | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing | 1 | 3D / photogrammetry |  | 🔓 |
 | 2026 | [A Deep Learning Framework for Emergency Drone Landing Zone Detection](https://doi.org/10.1109/access.2026.3675996) | K.M. Rumman et al. | IEEE Access | 0 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2026 | [A Geographic Consistency-Constrained Cross-Modal Super-Resolution Matching Method for UAV Geo-Localization](https://doi.org/10.3390/rs18152475) | Jindi Wang et al. | Remote Sensing | 0 | Dataset / benchmark |  | 🔓 |
 | 2026 | [A Lightweight RGB-Thermal Framework Toward UAV-Assisted Day–Night Cement Crack Inspection Using MobileNetV4-CBAM and Enhanced SIFT Localization](https://doi.org/10.3390/automation7050147) | Ata Jahangir Moshayedi et al. | Automation | 0 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2026 | [A common WBGT limit activates unequally across Grand Slam tennis venues because dry heat suppresses the wet-bulb term](https://doi.org/10.1038/s41598-026-65488-3) | Serafín Corral Quintana et al. | Scientific Reports | 0 |  |  | 🔓 |
 | 2026 | [Adaptive super-resolution UAV inspection and image perception strategy planning for distribution networks](https://doi.org/10.1038/s41598-026-67277-4) | Jialin Liu et al. | Scientific Reports | 0 |  |  | 🔓 |
@@ -137,6 +138,7 @@
 | 2016 | [Способ посадки беспилотного летательного аппарата вертолетного типа с использованием инфракрасной камеры](https://openalex.org/W2607817234) | Иванников Константин Валерьевич et al. |  | 0 |  |  |  |
 | 2015 | [Thermal Stereo Odometry for UAVs](https://doi.org/10.1109/jsen.2015.2456337) | Tarek Mouats et al. | IEEE Sensors Journal | 102 | 3D / photogrammetry |  | 🔓 |
 | 2015 | [UAV-BASED ACQUISITION OF 3D POINT CLOUD – A COMPARISON OF A LOW-COST LASER SCANNER AND SFM-TOOLS](https://doi.org/10.5194/isprsarchives-xl-3-w3-335-2015) | David L. Mader et al. | The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences | 28 | 3D / photogrammetry |  | 🔓 |
+| 2015 | [Spline Mapping to Maximize Energy Exploitation of Non-Uniform Thermals](https://openalex.org/W29222191) | John J. Bird et al. | Technical soaring | 10 |  |  | 🔓 |
 | 2015 | [A Low-Cost Vision-Based Unmanned Aerial System For Extremely Low-Light Gps-Denied Navigation And Thermal Imaging](https://doi.org/10.5281/zenodo.1109889) | Chang Liu et al. | ePrints Soton (University of Southampton) | 3 |  |  | 🔓 |
 | 2014 | [Distributed Thermal Identification and Exploitation for Multiple Soaring UAVs](https://doi.org/10.1007/978-3-319-10807-0_17) | J. A. Cobano et al. | Springer eBooks | 3 |  |  |  |
 | 2013 | [Optimum Design of the Cooperation Objective for Computer Vision-Based UAV Autonomous Landing](https://doi.org/10.4028/www.scientific.net/amr.718-720.1221) | Dong Wu Feng et al. | Advanced materials research | 0 |  |  | 🔓 |

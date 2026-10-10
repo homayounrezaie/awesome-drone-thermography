@@ -1,6 +1,6 @@
 # Crop phenotyping, health & yield
 
-[← back to overview](../README.md) · 801 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 800 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -299,7 +299,6 @@
 | 2025 | [Design of Unmanned Aerial Vehicles and Wireless Sensor Networks for Precision Agriculture in Semi-Arid and Desert Environments](https://doi.org/10.5281/zenodo.20635702) | Mostefa Bendjima | Zenodo (CERN European Organization for Nuclear Research) | 0 | Multi-sensor fusion |  | 🔓 |
 | 2025 | [Development of plant health monitoring device](https://doi.org/10.1201/9781003675259-1) | B. Perumal et al. | CRC Press eBooks | 0 | Multi-sensor fusion |  |  |
 | 2025 | [Developments in unmanned aerial systems (UAS) for precision agriculture](https://doi.org/10.1201/9781003767428-5) | Fengkai Tian et al. | Precision agriculture for sustainability | 0 | Radiometric calibration, 3D / photogrammetry, Multi-sensor fusion |  |  |
-| 2025 | [Developments in unmanned aerial systems for precision agriculture](https://doi.org/10.19103/as.2025.152.05) | Fengkai Tian et al. | Burleigh Dodds series in agricultural science | 0 | Radiometric calibration, 3D / photogrammetry, Multi-sensor fusion |  |  |
 | 2025 | [Digital technologies for precision agriculture: Current approaches, advances and future perspectives](https://doi.org/10.14719/pst.8318) | Ali Sabır et al. | Plant Science Today | 0 |  |  | 🔓 |
 | 2025 | [Drone Swarming for Precision Agriculture](https://doi.org/10.22214/ijraset.2025.69150) | Prathmesh Ashok Singh | International Journal for Research in Applied Science and Engineering Technology | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2025 | [Drone-Based Precision Spraying: Applying AI and IoT for Targeted Fertilizer, Pesticide, and Nutrient Delivery](https://doi.org/10.71443/9789349552739-13) | G Vijayakumar et al. | AI, ML, and IoT for Smart Agriculture: Innovations in Crop Yield, Resource Optimization, and Sustainable Farming Practices | 0 | Machine learning, Multi-sensor fusion |  | 🔓 |

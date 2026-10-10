@@ -166,7 +166,7 @@ def main() -> None:
         "{{REVIEWED}}": str(sum(r["status"] == "included" for r in public)),
         "{{POSTED}}": str(sum(bool(r["posted"]) for r in public)),
         "{{N_CATEGORIES}}": str(len(apps)),
-        "{{UPDATED}}": dt.date.today().isoformat(),
+        "{{UPDATED}}": dt.datetime.now(dt.timezone.utc).date().isoformat(),  # UTC, same as CI
         "{{OVERVIEW}}": "\n".join(overview),
         "{{YEAR_CHART}}": year_chart(public),
         "{{SENSORS}}": "\n".join(sensors),

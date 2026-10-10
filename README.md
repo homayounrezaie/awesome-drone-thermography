@@ -7,7 +7,7 @@ A living map of research that uses **thermal infrared cameras on drones (UAV / U
 
 From building heat loss to crop water stress, wildlife surveys to volcanoes: drone thermography is used in dozens of fields that rarely read each other's work. This repository brings them together in one place.
 
-**7348** papers · **27** application areas · **0** manually reviewed · **0** featured on LinkedIn · updated 2026-10-09
+**7348** papers · **27** application areas · **0** manually reviewed · **0** featured on LinkedIn · updated 2026-10-10
 
 ✅ reviewed by a human · 📣 featured in the LinkedIn series · 🔓 open access
 

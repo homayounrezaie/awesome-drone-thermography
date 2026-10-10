@@ -1,6 +1,6 @@
 # Glaciers, permafrost & snow
 
-[← back to overview](../README.md) · 142 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 144 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -133,6 +133,7 @@
 | 2016 | [CLOSE-RANGE SENSING TECHNIQUES IN ALPINE TERRAIN](https://doi.org/10.5194/isprs-annals-iii-6-15-2016) | Martin Rutzinger et al. | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences | 16 | 3D / photogrammetry |  | 🔓 |
 | 2016 | [Software defined multi-spectral imaging for Arctic sensor networks](https://doi.org/10.1117/12.2222966) | Sam B. Siewert et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 3 | Multi-sensor fusion |  | 🔓 |
 | 2015 | [Coastal and Environmental Remote Sensing from Unmanned Aerial Vehicles: An Overview](https://doi.org/10.2112/jcoastres-d-15-00005.1) | Victor Klemas | Journal of Coastal Research | 366 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2015 | [Carbon nanomaterial-based wing temperature control system for in-flight anti-icing and de-icing of unmanned aerial vehicles](https://doi.org/10.1109/aero.2015.7119206) | Kim Lynge Sørensen et al. | Proceedings - IEEE Aerospace Conference | 38 |  |  | 🔓 |
 | 2015 | [Experimental Monitoring of Sea Ice Using Unmanned Aerial Systems](https://openalex.org/W2492938122) | Andreas L. Flåten | BIBSYS Brage (BIBSYS (Norway)) | 3 |  |  | 🔓 |
 | 2014 | [Spatial Co-Registration of Ultra-High Resolution Visible, Multispectral and Thermal Images Acquired with a Micro-UAV over Antarctic Moss Beds](https://doi.org/10.3390/rs6054003) | Darren Turner et al. | Remote Sensing | 212 | Multi-sensor fusion |  | 🔓 |
 | 2014 | [Drones, Infrared Imagery, and Body Heat](https://openalex.org/W1447009147) | Lisa Parks | eScholarship (California Digital Library) | 48 |  |  | 🔓 |
@@ -140,6 +141,7 @@
 | 2014 | [Testing UAVs to perform aerial photographic survey of harp and hooded seals in the West Ice area](https://openalex.org/W2465826704) | Kjell Tormod Nilssen et al. | BIBSYS Brage (BIBSYS (Norway)) | 3 | Review / survey |  | 🔓 |
 | 2014 | [Multidisciplinary permafrost research - monitoring project at the Istituto Mosso LTER site (Col d’Olen, Aosta Valley, Italy)](https://openalex.org/W2613686657) | Nicola Colombo et al. | Institutional Research Information System University of Turin (University of Turin) | 0 |  |  |  |
 | 2014 | [Permafrost research: monitoring through a sensors network at the "Istituto Mosso" LTER site (Col d'Olen, Aosta Valley, Italy)](https://openalex.org/W2727430669) | Nicola Colombo et al. | Institutional Research Information System University of Turin (University of Turin) | 0 |  |  |  |
+| 2014 | [Remote Sensing of Arctic Environmental Conditions and Critical Infrastructure using Infra-Red (IR) Cameras and Unmanned Air Vehicles (UAVs)](https://openalex.org/W3014380904) | Michael C. Hatfield et al. | AGUFM | 0 |  |  |  |
 | 2014 | [The Istituto Mosso LTER site (Aosta Valley, Italy): an integrated research - monitoring in an alpine permafrost area. Site instrumentation and techniques](https://openalex.org/W2737113523) | Nicola Colombo et al. | Institutional Research Information System University of Turin (University of Turin) | 0 |  |  |  |
 | 2014 | [UAV anti-icing system based on conductive coating](https://openalex.org/W239979620) | Andreas Strand Helland | 110 | 0 |  |  |  |
 | 2011 | [Design of a Small Solar-Powered Unmanned Aerial Vehicle](https://doi.org/10.31979/etd.2nzx-arxy) | Christopher Hartney | San Jose State University | 7 |  |  |  |

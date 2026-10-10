@@ -1,6 +1,6 @@
 # Public health & body temperature screening
 
-[← back to overview](../README.md) · 61 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 63 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -29,12 +29,14 @@
 | 2022 | [A Novel Design For A COVID-19 Diagnosis System Using Machine Learning And Drone Technology (COVIDRONE-20)](https://doi.org/10.20944/preprints202209.0380.v1) | Asweel KK Mehaboob et al. | Preprints.org | 1 | Machine learning |  | 🔓 |
 | 2022 | [Re-Visiting Viking Vinland: I. Locating 'Keelness', a Viking Shipwreck Site in North America](https://doi.org/10.20944/preprints202212.0137.v1) | Royce Haynes | Preprints.org | 1 | Multi-sensor fusion |  | 🔓 |
 | 2022 | [COROID: A Crowdsourcing-based Companion Drones to Tackle Current and Future Pandemics](https://doi.org/10.1109/sam53842.2022.9827805) | Ashish Rauniyar et al. | Proceedings of the IEEE Sensor Array and Multichannel Signal Processing Workshop | 0 |  |  | 🔓 |
+| 2022 | [Design of a body temperature measurement system made through an unmanned aerial vehicle](https://doi.org/10.1109/icaect54875.2022.9808028) | Rosa Perez-Siguas et al. | International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT) | 0 |  |  |  |
 | 2022 | [Detection of Possible COVID-19 Cases using Thermal Imaging and a DRONE](https://doi.org/10.46338/ijetae0122_12) | Universidad de Ciencias y Humanidades & Av. Universitaria 5175 et al. | International Journal of Emerging Technology and Advanced Engineering | 0 |  |  | 🔓 |
 | 2022 | [Innovation and Emerging Computer Vision and Artificial Intelligence Technologies in Coronavirus Control](https://doi.org/10.1201/9781003244165-14) | Mukesh Carpenter et al. | Chapman & Hall/CRC eBooks | 0 | Deep learning |  |  |
 | 2022 | [Monitoring Suspects of COVID-19 in Compact Residential Area Using Machine Learning Based on Lockdown Analytical Impact](https://doi.org/10.1007/978-981-19-5331-6_76) | Reena Gupta et al. | Lecture notes in networks and systems | 0 | Machine learning |  |  |
 | 2022 | [Review of Lyon’s Pandemic Surveillance](https://doi.org/10.24908/ss.v20i3.15713) | Rob Kitchin | Surveillance & Society | 0 | Review / survey |  | 🔓 |
 | 2022 | [Role of IoT and AI in COVID-19](https://doi.org/10.1201/9781003126218-3) | Maligi Anantha Sunil et al. | CRC Press eBooks | 0 |  |  |  |
 | 2022 | [Social Distancing Detection By Drone Exploration](https://doi.org/10.37467/revtechno.v11.3323) | Ruth de Jesus Ramirez-Rejas et al. | TECHNO REVIEW International Technology Science and Society Review /Revista Internacional de Tecnología Ciencia y Sociedad | 0 | Deep learning | DJI Mavic 2 Enterprise Advanced |  |
+| 2022 | [Technologien der Krise](https://doi.org/10.1515/9783839459249) |  | transcript Verlag eBooks | 0 |  |  | 🔓 |
 | 2021 | [Artificial intelligence-enabled Internet of Things-based system for COVID-19 screening using aerial thermal imaging](https://doi.org/10.1016/j.future.2021.05.019) | Ahmed Barnawi et al. | Future Generation Computer Systems | 115 | Deep learning |  | 🔓 |
 | 2021 | [BloCoV6: A blockchain-based 6G-assisted UAV contact tracing scheme for COVID-19 pandemic](https://doi.org/10.1109/iciem51511.2021.9445332) | Mohd Zuhair et al. | International Conference on Intelligent Engineering and Management (ICIEM) | 31 |  |  |  |
 | 2021 | [Coupling multifunction drones with AI in the fight against the coronavirus pandemic](https://doi.org/10.1007/s00607-021-01022-9) | Faris A. Almalki et al. | Computing | 26 | Deep learning |  | 🔓 |

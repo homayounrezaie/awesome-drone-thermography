@@ -1,6 +1,6 @@
 # Detecting & tracking drones (counter-UAS)
 
-[← back to overview](../README.md) · 226 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 233 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -63,6 +63,7 @@
 | 2026 | [Training with synthetic data for drone detection in thermal imagery](https://doi.org/10.48550/arxiv.2608.17799) | Tanel Liiv et al. | arXiv (Cornell University) | 0 |  |  | 🔓 |
 | 2026 | [UAV Detection in Low-Altitude Scenarios Based on the Fusion of Unaligned Dual-Spectrum Images](https://doi.org/10.3390/drones10010040) | Zishuo Huang et al. | Drones | 0 | Deep learning, Multi-sensor fusion |  | 🔓 |
 | 2026 | [UAV Target Detection Based on Radar and Infrared Asynchronous Fusion](https://doi.org/10.1109/cait70489.2026.11553893) | Cao Yang et al. | 2026 China Aerospace Information Technology Conference (CAIT) | 0 | Dataset / benchmark |  |  |
+| 2026 | [UAV-CB: A Complex-Background RGB-T Dataset and Local Frequency Bridge Network for UAV Detection](https://doi.org/10.48550/arxiv.2603.17492) | Shenghui Huang et al. | arXiv (Cornell University) | 0 | Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2026 | [UAVCity-YOLO: An Improved YOLOv13 Architecture for Robust UAV Detection Using Infrared Data in Noisy Urban Environments](https://doi.org/10.15837/ijccc.2026.5.7542) | T.P. Nguyen et al. | International Journal of Computers Communications & Control | 0 | Deep learning |  | 🔓 |
 | 2026 | [Uncertainty-Aware Multimodal Anti-UAV Detection via Evidential Fusion and Conflict-Discounted Belief Aggregation](https://doi.org/10.48550/arxiv.2608.29235) | Sharanda Suttorp et al. | arXiv (Cornell University) | 0 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2026 | [Uncovering Hidden Predators: Thermal Drone Detection of Antarctic Fur Seals in Tussac Grass at South Georgia](https://doi.org/10.1002/ece3.73209) | Jamie Coleman et al. | Ecology and Evolution | 0 |  |  | 🔓 |
@@ -95,6 +96,7 @@
 | 2025 | [GA-Based Optimization of Visible and Infrared Decision-Level Data Fusion for UAV Detection](https://doi.org/10.1109/ccece64018.2025.11364513) | Ana Pereira et al. | IEEE Canadian Conference on Electrical and Computer Engineering (CCECE) | 1 | Deep learning, Multi-sensor fusion |  |  |
 | 2025 | [Good Data Beats More Data: Building a Thermal Air-Image Dataset for Ground-to-Air Surveillance](https://doi.org/10.5772/intechopen.1011701) | Tijeni Delleji et al. | Artificial intelligence | 1 |  |  | 🔓 |
 | 2025 | [On the construction of effective DRONEWALLS: Technologies and challenges for Counter-UAV systems](https://doi.org/10.1016/j.jatrs.2025.100093) | Sebastian Wandelt et al. | Journal of the Air Transport Research Society | 1 | 3D / photogrammetry, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
+| 2025 | [Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions](https://doi.org/10.48550/arxiv.2504.11967) | Yifei Dong et al. | arXiv (Cornell University) | 1 | Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2025 | [A Multi-Modal Semantic Fusion for UAV Detection Under Intense Illumination Background](https://doi.org/10.1109/wcsp68525.2025.1010393) | Huichao Chen et al. | 2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP) | 0 | Multi-sensor fusion |  |  |
 | 2025 | [A Multi-Scale Edge Feature Fusion Network for pixel-level detection of sky regions in infrared images](https://doi.org/10.1016/j.infrared.2025.106291) | Wei Chang et al. | Infrared Physics & Technology | 0 |  |  |  |
 | 2025 | [A new method for motion-blurred object recognition in infrared remote sensing using temperature waveforms](https://doi.org/10.1080/01431161.2025.2544357) | Qinghong Sheng et al. | International Journal of Remote Sensing | 0 |  |  |  |
@@ -190,6 +192,7 @@
 | 2021 | [Low-Rank Approximation and Multiple Sparse Constraint Modeling for Infrared Low-Flying Fixed-Wing UAV Detection](https://doi.org/10.1109/jstars.2021.3069032) | Wei Xue et al. | IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing | 47 |  |  | 🔓 |
 | 2021 | [A Unified Approach for Tracking UAVs in Infrared](https://doi.org/10.1109/iccvw54120.2021.00141) | Jinjian Zhao et al. | IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | 15 |  |  |  |
 | 2021 | [The 2nd Anti-UAV Workshop & Challenge: Methods and Results](https://doi.org/10.48550/arxiv.2108.09909) | Jian Ying Zhao et al. | arXiv (Cornell University) | 9 | Dataset / benchmark |  | 🔓 |
+| 2021 | [Methods for detection-recognition of radar, acoustic, optical and infrared signals of unmanned aerial vehicles](https://doi.org/10.30837/rt.2021.2.205.15) | Vladimir M. Kartashov et al. | Radiotekhnika | 8 | Deep learning |  | 🔓 |
 | 2021 | [Unmanned Aerial Vehicle Visual Detection and Tracking using Deep Neural Networks: A Performance Benchmark](https://doi.org/10.1109/iccvw54120.2021.00142) | Brian K. S. Isaac-Medina et al. | IEEE/CVF International Conference on Computer Vision Workshops (ICCVW) | 7 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2021 | [Computationally Efficient RGB-T UAV Detection and Tracking System](https://doi.org/10.1109/icuas51884.2021.9476750) | Daitao Xing et al. | International Conference on Unmanned Aircraft Systems (ICUAS) | 3 | Deep learning, Multi-sensor fusion, Dataset / benchmark |  |  |
 | 2021 | [Identification of drone thermal signature by convolutional neural network](https://doi.org/10.1109/icuas51884.2021.9476825) | Chong Yu Quan et al. | International Conference on Unmanned Aircraft Systems (ICUAS) | 3 | Deep learning, Machine learning |  |  |
@@ -212,6 +215,7 @@
 | 2020 | [Optical and Spectral Methods for Detection and Recognition of Unmanned Aerial Vehicles](https://doi.org/10.36027/rdeng.0220.0000167) | Andrey N. Morozov et al. | Radio Engineering | 0 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2020 | [Vision-based Aircraft Detection Technologies for Unmanned Aerial Vehicles](https://doi.org/10.20868/upm.thesis.65523) | ADRIAN CARRIO FERNANDEZ | Universidad Politécnica de Madrid | 0 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2019 | [Deep Learning on Multi Sensor Data for Counter UAV Applications—A Systematic Review](https://doi.org/10.3390/s19224837) | Stamatios Samaras et al. | Sensors | 206 | Deep learning, Multi-sensor fusion, Review / survey |  | 🔓 |
+| 2019 | [Multispectral Detection of Commercial Unmanned Aerial Vehicles](https://doi.org/10.3390/s19071517) | Jan Farlík et al. | Sensors | 64 | Multi-sensor fusion |  | 🔓 |
 | 2019 | [Towards Visible and Thermal Drone Monitoring with Convolutional Neural Networks](https://doi.org/10.1017/atsip.2018.30) | Ye Wang et al. | APSIPA Transactions on Signal and Information Processing | 46 | Deep learning, Multi-sensor fusion |  | 🔓 |
 | 2019 | [Development of UAV Tracing and Coordinate Detection Method Using a Dual-Axis Rotary Platform for an Anti-UAV System](https://doi.org/10.3390/app9132583) | Bor-Horng Sheu et al. | Applied Sciences | 37 |  |  | 🔓 |
 | 2019 | [Flying Small Target Detection for Anti-UAV Based on a Gaussian Mixture Model in a Compressive Sensing Domain](https://doi.org/10.3390/s19092168) | Chuanyun Wang et al. | Sensors | 34 | Multi-sensor fusion |  | 🔓 |
@@ -227,6 +231,9 @@
 | 2018 | [Razvoj sustava globalne vizije za testiranje algoritama upravljanja bespilotnim letjelicama](https://openalex.org/W2921175217) | Bojan Spahija |  | 0 |  |  |  |
 | 2017 | [Night-time Detection of UAVs using Thermal Infrared Camera](https://doi.org/10.1016/j.trpro.2017.12.184) | Petar Andraši et al. | Transportation research procedia | 128 |  |  | 🔓 |
 | 2015 | [Detection and tracking of drones using advanced acoustic cameras](https://doi.org/10.1117/12.2194309) | Joël Busset et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 153 |  |  | 🔓 |
+| 2015 | [Tracking Unmanned Aerial Vehicle CTU FTS - Application of equipment](https://doi.org/10.14311/mad.2015.16.02) | David Hůlek | MAD - Magazine of Aviation Development | 0 |  |  | 🔓 |
+| 2014 | [MIRA: An IR Signature Model for Unmanned Aerial Vehicles (UAV)](https://openalex.org/W175476380) | Erwin Lindermeir et al. | elib (German Aerospace Center) | 0 |  |  |  |
 | 2009 | [Segmentation of Unmanned Aerial Vehicle infrared ship target](https://openalex.org/W2362421530) | Guo Li-yan | Computer Engineering and Applications Journal | 1 |  |  |  |
 | 2008 | [Enhanced detection of LED runway/approach lights for EVS](https://doi.org/10.1117/12.764684) | J. Richard Kerr | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 4 |  |  |  |
 | 2007 | [From images to traffic behavior - A UAV tracking and monitoring application](https://doi.org/10.1109/icif.2007.4408103) | Fredrik Heintz et al. | International Conference on Information Fusion (FUSION) | 85 | Multi-sensor fusion |  |  |
+|  | [Обнаружение беспилотных летательных аппаратов с помощью тепловизионной техники](https://openalex.org/W7119246515) | Андрющенко Михаил Сергеевич et al. | CyberLeninK (CyberLeninka) | 0 |  |  |  |

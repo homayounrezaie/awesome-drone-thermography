@@ -7,7 +7,7 @@ A living map of research that uses **thermal infrared cameras on drones (UAV / U
 
 From building heat loss to crop water stress, wildlife surveys to volcanoes: drone thermography is used in dozens of fields that rarely read each other's work. This repository brings them together in one place.
 
-**7348** papers · **27** application areas · **0** manually reviewed · **0** featured on LinkedIn · updated 2026-10-10
+**7663** papers · **27** application areas · **0** manually reviewed · **0** featured on LinkedIn · updated 2026-10-09
 
 ✅ reviewed by a human · 📣 featured in the LinkedIn series · 🔓 open access
 
@@ -27,56 +27,56 @@ From building heat loss to crop water stress, wildlife surveys to volcanoes: dro
 
 | Area | Application | Papers | Since | Most cited |
 |---|---|--:|--:|---|
-| Built environment | [Building envelope, roofs & heat loss](categories/building-envelope.md) | 272 | 1993 | [Review of Unmanned Aerial System (UAS) applications in the built environment: Towards automated building inspection procedures using drones](https://doi.org/10.1016/j.autcon.2018.05.002) |
-| Built environment | [Urban heat & microclimate](categories/urban-heat.md) | 190 | 2005 | [Study of the Urban Heat Island (UHI) Using Remote Sensing Data/Techniques: A Systematic Review](https://doi.org/10.3390/environments8100105) |
-| Built environment | [Bridges, pavements & civil structures](categories/civil-infrastructure.md) | 261 | 2005 | [A Systematic Review of Advanced Sensor Technologies for Non-Destructive Testing and Structural Health Monitoring](https://doi.org/10.3390/s23042204) |
-| Built environment | [District heating & pipelines](categories/district-heating.md) | 81 | 2015 | [Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simulator](https://doi.org/10.1021/acs.est.5b06068) |
-| Energy | [Solar PV inspection](categories/solar-pv.md) | 447 | 2004 | [Light Unmanned Aerial Vehicles (UAVs) for Cooperative Inspection of PV Plants](https://doi.org/10.1109/jphotov.2014.2323714) |
-| Energy | [Power lines, substations & electrical assets](categories/power-grid.md) | 160 | 2007 | [Remote sensing methods for power line corridor surveys](https://doi.org/10.1016/j.isprsjprs.2016.04.011) |
-| Energy | [Wind turbines](categories/wind-energy.md) | 46 | 2015 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) |
-| Energy | [Oil, gas & industrial facilities](categories/industrial.md) | 89 | 2009 | [Oil Spill Detection Using Machine Learning and Infrared Images](https://doi.org/10.3390/rs12244090) |
-| Agriculture | [Crop water stress, irrigation & evapotranspiration](categories/agriculture-water-stress.md) | 650 | 2006 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
-| Agriculture | [Crop phenotyping, health & yield](categories/crop-phenotyping.md) | 1051 | 2001 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
+| Built environment | [Building envelope, roofs & heat loss](categories/building-envelope.md) | 297 | 1993 | [Review of Unmanned Aerial System (UAS) applications in the built environment: Towards automated building inspection procedures using drones](https://doi.org/10.1016/j.autcon.2018.05.002) |
+| Built environment | [Urban heat & microclimate](categories/urban-heat.md) | 193 | 2005 | [Study of the Urban Heat Island (UHI) Using Remote Sensing Data/Techniques: A Systematic Review](https://doi.org/10.3390/environments8100105) |
+| Built environment | [Bridges, pavements & civil structures](categories/civil-infrastructure.md) | 267 | 2005 | [A Systematic Review of Advanced Sensor Technologies for Non-Destructive Testing and Structural Health Monitoring](https://doi.org/10.3390/s23042204) |
+| Built environment | [District heating & pipelines](categories/district-heating.md) | 85 | 2015 | [Comparing Natural Gas Leakage Detection Technologies Using an Open-Source “Virtual Gas Field” Simulator](https://doi.org/10.1021/acs.est.5b06068) |
+| Energy | [Solar PV inspection](categories/solar-pv.md) | 463 | 2004 | [Light Unmanned Aerial Vehicles (UAVs) for Cooperative Inspection of PV Plants](https://doi.org/10.1109/jphotov.2014.2323714) |
+| Energy | [Power lines, substations & electrical assets](categories/power-grid.md) | 175 | 2007 | [Remote sensing methods for power line corridor surveys](https://doi.org/10.1016/j.isprsjprs.2016.04.011) |
+| Energy | [Wind turbines](categories/wind-energy.md) | 48 | 2015 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) |
+| Energy | [Oil, gas & industrial facilities](categories/industrial.md) | 94 | 2009 | [Oil Spill Detection Using Machine Learning and Infrared Images](https://doi.org/10.3390/rs12244090) |
+| Agriculture | [Crop water stress, irrigation & evapotranspiration](categories/agriculture-water-stress.md) | 655 | 2006 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
+| Agriculture | [Crop phenotyping, health & yield](categories/crop-phenotyping.md) | 1074 | 2001 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
 | Agriculture | [Livestock & animal health](categories/livestock.md) | 43 | 1982 | [Review: Precision Livestock Farming technologies in pasture-based livestock systems](https://doi.org/10.1016/j.animal.2021.100429) |
-| Forestry & ecology | [Forests, trees & vegetation](categories/forestry.md) | 774 | 2005 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
-| Forestry & ecology | [Wildlife detection & counting](categories/wildlife.md) | 455 | 2001 | [Are unmanned aircraft systems ( UAS s) the future of wildlife monitoring? A review of accomplishments and challenges](https://doi.org/10.1111/mam.12046) |
-| Water & coast | [Rivers, groundwater & coastal water](categories/water-hydrology.md) | 349 | 1985 | [Coastal and Environmental Remote Sensing from Unmanned Aerial Vehicles: An Overview](https://doi.org/10.2112/jcoastres-d-15-00005.1) |
+| Forestry & ecology | [Forests, trees & vegetation](categories/forestry.md) | 787 | 2005 | [Thermal and Narrowband Multispectral Remote Sensing for Vegetation Monitoring From an Unmanned Aerial Vehicle](https://doi.org/10.1109/tgrs.2008.2010457) |
+| Forestry & ecology | [Wildlife detection & counting](categories/wildlife.md) | 481 | 2001 | [Are unmanned aircraft systems ( UAS s) the future of wildlife monitoring? A review of accomplishments and challenges](https://doi.org/10.1111/mam.12046) |
+| Water & coast | [Rivers, groundwater & coastal water](categories/water-hydrology.md) | 361 | 1985 | [Coastal and Environmental Remote Sensing from Unmanned Aerial Vehicles: An Overview](https://doi.org/10.2112/jcoastres-d-15-00005.1) |
 | Geoscience | [Soil moisture & soil properties](categories/soil.md) | 130 | 2007 | [Assessment of Surface Soil Moisture Using High-Resolution Multi-Spectral Imagery and Artificial Neural Networks](https://doi.org/10.3390/rs70302627) |
-| Geoscience | [Volcanoes & geothermal areas](categories/volcano-geothermal.md) | 117 | 1981 | [Thermal infrared imaging of geothermal environments and by an unmanned aerial vehicle (UAV): A case study of the Wairakei – Tauhara geothermal field, Taupo, New Zealand](https://doi.org/10.1016/j.renene.2015.09.042) |
-| Geoscience | [Glaciers, permafrost & snow](categories/cryosphere.md) | 142 | 2007 | [Coastal and Environmental Remote Sensing from Unmanned Aerial Vehicles: An Overview](https://doi.org/10.2112/jcoastres-d-15-00005.1) |
-| Geoscience | [Landslides, rock & geology](categories/geohazards-geology.md) | 95 | 2016 | [Spaceborne, UAV and ground-based remote sensing techniques for landslide mapping, monitoring and early warning](https://doi.org/10.1186/s40677-017-0073-1) |
-| Geoscience | [Mining, landfills & coal fires](categories/mining-waste.md) | 167 | 1989 | [Integration of Terrestrial and Drone-Borne Hyperspectral and Photogrammetric Sensing Methods for Exploration Mapping and Mining Monitoring](https://doi.org/10.3390/rs10091366) |
-| Hazards & emergency | [Wildfire & fire monitoring](categories/wildfire.md) | 412 | 1991 | [Cooperative forest fire surveillance using a team of small unmanned air vehicles](https://doi.org/10.1080/00207720500438480) |
-| Hazards & emergency | [Search & rescue, disaster response](categories/search-rescue.md) | 411 | 1979 | [Multipurpose UAV for search and rescue operations in mountain avalanche events](https://doi.org/10.1080/19475705.2016.1238852) |
-| Security & computer vision | [People, vehicle & object detection](categories/surveillance-detection.md) | 1378 | 1988 | [Drone-Based RGB-Infrared Cross-Modality Vehicle Detection Via Uncertainty-Aware Learning](https://doi.org/10.1109/tcsvt.2022.3168279) |
-| Security & computer vision | [Detecting & tracking drones (counter-UAS)](categories/counter-drone.md) | 226 | 2007 | [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://doi.org/10.1109/cvpr52688.2022.00868) |
-| Heritage | [Archaeology & cultural heritage](categories/heritage.md) | 130 | 2010 | [Archaeological aerial thermography: a case study at the Chaco-era Blue J community, New Mexico](https://doi.org/10.1016/j.jas.2014.02.015) |
-| Health & public safety | [Public health & body temperature screening](categories/health-epidemiology.md) | 61 | 2007 | [A drone-based networked system and methods for combating coronavirus disease (COVID-19) pandemic](https://doi.org/10.1016/j.future.2020.08.046) |
-| Robotics & navigation | [Navigation, landing & localization](categories/navigation.md) | 391 | 1983 | [Automatic Take Off, Tracking and Landing of a Miniature UAV on a Moving Carrier Vehicle](https://doi.org/10.1007/s10846-010-9473-0) |
-| Methods & technology | [Calibration, processing & sensor technology](categories/methods-general.md) | 597 | 1980 | [Remote sensing of the environment with small unmanned aircraft systems (UASs), part 1: a review of progress and challenges](https://doi.org/10.1139/juvs-2014-0006) |
+| Geoscience | [Volcanoes & geothermal areas](categories/volcano-geothermal.md) | 124 | 1981 | [Unmanned aerial vehicle measurements of volcanic carbon dioxide fluxes](https://doi.org/10.1029/2007gl032508) |
+| Geoscience | [Glaciers, permafrost & snow](categories/cryosphere.md) | 144 | 2007 | [Coastal and Environmental Remote Sensing from Unmanned Aerial Vehicles: An Overview](https://doi.org/10.2112/jcoastres-d-15-00005.1) |
+| Geoscience | [Landslides, rock & geology](categories/geohazards-geology.md) | 98 | 2016 | [Spaceborne, UAV and ground-based remote sensing techniques for landslide mapping, monitoring and early warning](https://doi.org/10.1186/s40677-017-0073-1) |
+| Geoscience | [Mining, landfills & coal fires](categories/mining-waste.md) | 174 | 1989 | [Integration of Terrestrial and Drone-Borne Hyperspectral and Photogrammetric Sensing Methods for Exploration Mapping and Mining Monitoring](https://doi.org/10.3390/rs10091366) |
+| Hazards & emergency | [Wildfire & fire monitoring](categories/wildfire.md) | 430 | 1991 | [Cooperative forest fire surveillance using a team of small unmanned air vehicles](https://doi.org/10.1080/00207720500438480) |
+| Hazards & emergency | [Search & rescue, disaster response](categories/search-rescue.md) | 439 | 1979 | [Multipurpose UAV for search and rescue operations in mountain avalanche events](https://doi.org/10.1080/19475705.2016.1238852) |
+| Security & computer vision | [People, vehicle & object detection](categories/surveillance-detection.md) | 1413 | 1988 | [Drone-Based RGB-Infrared Cross-Modality Vehicle Detection Via Uncertainty-Aware Learning](https://doi.org/10.1109/tcsvt.2022.3168279) |
+| Security & computer vision | [Detecting & tracking drones (counter-UAS)](categories/counter-drone.md) | 233 | 2007 | [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://doi.org/10.1109/cvpr52688.2022.00868) |
+| Heritage | [Archaeology & cultural heritage](categories/heritage.md) | 138 | 2010 | [Archaeological aerial thermography: a case study at the Chaco-era Blue J community, New Mexico](https://doi.org/10.1016/j.jas.2014.02.015) |
+| Health & public safety | [Public health & body temperature screening](categories/health-epidemiology.md) | 63 | 2007 | [A drone-based networked system and methods for combating coronavirus disease (COVID-19) pandemic](https://doi.org/10.1016/j.future.2020.08.046) |
+| Robotics & navigation | [Navigation, landing & localization](categories/navigation.md) | 399 | 1983 | [Automatic Take Off, Tracking and Landing of a Miniature UAV on a Moving Carrier Vehicle](https://doi.org/10.1007/s10846-010-9473-0) |
+| Methods & technology | [Calibration, processing & sensor technology](categories/methods-general.md) | 654 | 1980 | [Remote sensing of the environment with small unmanned aircraft systems (UASs), part 1: a review of progress and challenges](https://doi.org/10.1139/juvs-2014-0006) |
 
 ## Trends
 
 **Papers per year**
 
 ```text
-2010  █                                        36
-2011  █                                        37
-2012  █                                        43
-2013  ██                                       56
-2014  ███                                      96
-2015  ████                                     133
-2016  █████                                    188
-2017  ██████                                   222
-2018  █████████                                315
-2019  ████████████                             400
-2020  █████████████                            451
-2021  ███████████████                          501
-2022  ███████████████                          526
-2023  ██████████████████                       630
-2024  ██████████████████████                   770
-2025  ████████████████████████████████████████ 1381
-2026  ███████████████████████████████████████  1349
+2010  █                                        37
+2011  █                                        39
+2012  █                                        47
+2013  ██                                       60
+2014  ███                                      103
+2015  ████                                     149
+2016  ██████                                   210
+2017  ███████                                  252
+2018  █████████                                332
+2019  ████████████                             426
+2020  █████████████                            478
+2021  ███████████████                          515
+2022  ███████████████                          541
+2023  ██████████████████                       649
+2024  ██████████████████████                   797
+2025  ████████████████████████████████████████ 1417
+2026  ███████████████████████████████████████  1379
 2027                                           0
 2028                                           0
 2029  █                                        1
@@ -92,10 +92,10 @@ From building heat loss to crop water stress, wildlife surveys to volcanoes: dro
 | MicaSense Altum | 30 |
 | FLIR Vue Pro | 24 |
 | FLIR Tau 2 | 21 |
-| DJI Mavic 2 Enterprise Advanced | 16 |
+| DJI Mavic 2 Enterprise Advanced | 17 |
 | DJI Zenmuse XT | 14 |
 | DJI Zenmuse XT2 | 13 |
-| FLIR Lepton | 11 |
+| FLIR Lepton | 13 |
 | DJI Zenmuse XT/XT2 (unspecified) | 10 |
 | Workswell WIRIS | 9 |
 | DJI Mavic 3 Thermal | 9 |
@@ -110,13 +110,13 @@ From building heat loss to crop water stress, wildlife surveys to volcanoes: dro
 
 | Method | Papers |
 |---|--:|
-| Multi-sensor fusion | 2374 |
-| Deep learning | 1475 |
-| 3D / photogrammetry | 1158 |
-| Machine learning | 729 |
-| Dataset / benchmark | 326 |
-| Radiometric calibration | 275 |
-| Review / survey | 247 |
+| Multi-sensor fusion | 2423 |
+| Deep learning | 1494 |
+| 3D / photogrammetry | 1193 |
+| Machine learning | 735 |
+| Dataset / benchmark | 330 |
+| Radiometric calibration | 281 |
+| Review / survey | 254 |
 
 </td></tr></table>
 
@@ -147,7 +147,7 @@ From building heat loss to crop water stress, wildlife surveys to volcanoes: dro
 
 #### Building envelope, roofs & heat loss
 
-Top 10 most cited of **272** · [see all →](categories/building-envelope.md)
+Top 10 most cited of **297** · [see all →](categories/building-envelope.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -160,11 +160,11 @@ Top 10 most cited of **272** · [see all →](categories/building-envelope.md)
 | 2018 | [Heat Mapping Drones: An Autonomous Computer-Vision-Based Procedure for Building Envelope Inspection Using Unmanned Aerial Systems (UAS)](https://doi.org/10.1080/24751448.2018.1420963) | Tarek Rakha et al. | 58 |  |  |
 | 2021 | [Building envelope anomaly characterization and simulation using drone time-lapse thermography](https://doi.org/10.1016/j.enbuild.2021.111754) | Tarek Rakha et al. | 54 | 3D / photogrammetry | 🔓 |
 | 2020 | [Estimating surface temperature from thermal imagery of buildings for accurate thermal transmittance (U-value): A machine learning perspective](https://doi.org/10.1016/j.jobe.2020.101637) | Debanjan Sadhukhan et al. | 54 | Deep learning, Machine learning | 🔓 |
-| 2006 | [Automatic Detection of Windows Thermal Heat Losses in Buildings Using UAVs](https://doi.org/10.1109/wac.2006.375998) | José Ramiro Martínez‐de Dios et al. | 50 |  |  |
+| 2019 | [IR Thermography from UAVs to Monitor Thermal Anomalies in the Envelopes of Traditional Wine Cellars: Field Test](https://doi.org/10.3390/rs11121424) | Juan Ortiz Sanz et al. | 47 |  | 🔓 |
 
 #### Urban heat & microclimate
 
-Top 10 most cited of **190** · [see all →](categories/urban-heat.md)
+Top 10 most cited of **193** · [see all →](categories/urban-heat.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -181,7 +181,7 @@ Top 10 most cited of **190** · [see all →](categories/urban-heat.md)
 
 #### Bridges, pavements & civil structures
 
-Top 10 most cited of **261** · [see all →](categories/civil-infrastructure.md)
+Top 10 most cited of **267** · [see all →](categories/civil-infrastructure.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -198,7 +198,7 @@ Top 10 most cited of **261** · [see all →](categories/civil-infrastructure.md
 
 #### District heating & pipelines
 
-Top 10 most cited of **81** · [see all →](categories/district-heating.md)
+Top 10 most cited of **85** · [see all →](categories/district-heating.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -217,7 +217,7 @@ Top 10 most cited of **81** · [see all →](categories/district-heating.md)
 
 #### Solar PV inspection
 
-Top 10 most cited of **447** · [see all →](categories/solar-pv.md)
+Top 10 most cited of **463** · [see all →](categories/solar-pv.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -234,12 +234,13 @@ Top 10 most cited of **447** · [see all →](categories/solar-pv.md)
 
 #### Power lines, substations & electrical assets
 
-Top 10 most cited of **160** · [see all →](categories/power-grid.md)
+Top 10 most cited of **175** · [see all →](categories/power-grid.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
 | 2016 | [Remote sensing methods for power line corridor surveys](https://doi.org/10.1016/j.isprsjprs.2016.04.011) | Leena Matikainen et al. | 411 |  | 🔓 |
 | 2019 | [Fault Detection in Power Equipment via an Unmanned Aerial System Using Multi Modal Data](https://doi.org/10.3390/s19133014) | Bushra Jalil et al. | 138 | Deep learning, Multi-sensor fusion | 🔓 |
+| 2013 | [A Roadmap for Automated Power Line Inspection. Maintenance and Repair](https://doi.org/10.1016/j.procir.2013.09.041) | A. Pagnano et al. | 100 |  | 🔓 |
 | 2024 | [UAV based sensing and imaging technologies for power system detection, monitoring and inspection: a review](https://doi.org/10.1080/10589759.2024.2421938) | Yunze He et al. | 85 | Multi-sensor fusion, Review / survey |  |
 | 2013 | [Automatic system for overhead power line inspection using an Unmanned Aerial Vehicle — RELIFO project](https://doi.org/10.1109/icuas.2013.6564696) | Juan Ignacio Larrauri et al. | 76 |  |  |
 | 2024 | [UAV Visual and Thermographic Power Line Detection Using Deep Learning](https://doi.org/10.3390/s24175678) | Tiago C. dos Santos et al. | 38 | Deep learning | 🔓 |
@@ -247,15 +248,15 @@ Top 10 most cited of **160** · [see all →](categories/power-grid.md)
 | 2019 | [Automatic Fault Detection of Power Lines using Unmanned Aerial Vehicle (UAV)](https://doi.org/10.1109/uvs.2019.8658283) | Mehdi Korki et al. | 32 | Deep learning |  |
 | 2021 | [Development of smart quadcopter for autonomous overhead power transmission line inspections](https://doi.org/10.1016/j.matpr.2021.05.271) | MD. Faiyaz Ahmed et al. | 24 |  |  |
 | 2023 | [A UAV Intelligent System for Greek Power Lines Monitoring](https://doi.org/10.3390/s23208441) | Aikaterini Tsellou et al. | 22 | Multi-sensor fusion | 🔓 |
-| 2024 | [Enhancing Power Lines Detection Using Deep Learning and Feature-Level Fusion of Infrared and Visible Light Images](https://doi.org/10.1007/s13369-024-09043-0) | Hossam Aboalia et al. | 21 | Deep learning, Multi-sensor fusion | 🔓 |
 
 #### Wind turbines
 
-Top 10 most cited of **46** · [see all →](categories/wind-energy.md)
+Top 10 most cited of **48** · [see all →](categories/wind-energy.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
 | 2022 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) | Marco Civera et al. | 187 | Review / survey | 🔓 |
+| 2022 | [Review of robot-based damage assessment for offshore wind turbines](https://doi.org/10.1016/j.rser.2022.112187) | Yiming Liu et al. | 117 | Review / survey |  |
 | 2015 | [Thermographic non-destructive inspection of wind turbine blades using unmanned aerial systems](https://doi.org/10.1179/1743289815y.0000000003) | Carlos Galleguillos et al. | 94 |  |  |
 | 2024 | [Unmanned Aerial Vehicle (UAV)-Assisted Damage Detection of Wind Turbine Blades: A Review](https://doi.org/10.3390/en17153731) | Zengyi Zhang et al. | 41 | Review / survey | 🔓 |
 | 2018 | [Identification of an effective nondestructive technique for bond defect determination in laminate composites—A technical review](https://doi.org/10.1177/0021998318766595) | Muhammad Tariq Asif et al. | 39 | Review / survey | 🔓 |
@@ -264,11 +265,10 @@ Top 10 most cited of **46** · [see all →](categories/wind-energy.md)
 | 2023 | [AQUADA PLUS: Automated damage inspection of cyclic-loaded large-scale composite structures using thermal imagery and computer vision](https://doi.org/10.1016/j.compstruct.2023.117085) | Xiao Dong Chen et al. | 26 |  | 🔓 |
 | 2025 | [Deep Learning in Defect Detection of Wind Turbine Blades: A Review](https://doi.org/10.1109/access.2025.3569799) | Katleho Masita et al. | 25 | Deep learning, 3D / photogrammetry, Multi-sensor fusion, Review / survey | 🔓 |
 | 2026 | [Deblur of infrared thermal images of in-service wind turbine blade based on rotational motion flow](https://doi.org/10.1016/j.measurement.2026.122462) | Yunze He et al. | 13 |  | 🔓 |
-| 2025 | [Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection](https://doi.org/10.47839/ijc.23.4.3752) | Serhii Svystun et al. | 13 | Deep learning, Multi-sensor fusion, Dataset / benchmark | 🔓 |
 
 #### Oil, gas & industrial facilities
 
-Top 10 most cited of **89** · [see all →](categories/industrial.md)
+Top 10 most cited of **94** · [see all →](categories/industrial.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -287,7 +287,7 @@ Top 10 most cited of **89** · [see all →](categories/industrial.md)
 
 #### Crop water stress, irrigation & evapotranspiration
 
-Top 10 most cited of **650** · [see all →](categories/agriculture-water-stress.md)
+Top 10 most cited of **655** · [see all →](categories/agriculture-water-stress.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -304,7 +304,7 @@ Top 10 most cited of **650** · [see all →](categories/agriculture-water-stres
 
 #### Crop phenotyping, health & yield
 
-Top 10 most cited of **1051** · [see all →](categories/crop-phenotyping.md)
+Top 10 most cited of **1074** · [see all →](categories/crop-phenotyping.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -340,7 +340,7 @@ Top 10 most cited of **43** · [see all →](categories/livestock.md)
 
 #### Forests, trees & vegetation
 
-Top 10 most cited of **774** · [see all →](categories/forestry.md)
+Top 10 most cited of **787** · [see all →](categories/forestry.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -357,7 +357,7 @@ Top 10 most cited of **774** · [see all →](categories/forestry.md)
 
 #### Wildlife detection & counting
 
-Top 10 most cited of **455** · [see all →](categories/wildlife.md)
+Top 10 most cited of **481** · [see all →](categories/wildlife.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -376,7 +376,7 @@ Top 10 most cited of **455** · [see all →](categories/wildlife.md)
 
 #### Rivers, groundwater & coastal water
 
-Top 10 most cited of **349** · [see all →](categories/water-hydrology.md)
+Top 10 most cited of **361** · [see all →](categories/water-hydrology.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -412,10 +412,11 @@ Top 10 most cited of **130** · [see all →](categories/soil.md)
 
 #### Volcanoes & geothermal areas
 
-Top 10 most cited of **117** · [see all →](categories/volcano-geothermal.md)
+Top 10 most cited of **124** · [see all →](categories/volcano-geothermal.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
+| 2008 | [Unmanned aerial vehicle measurements of volcanic carbon dioxide fluxes](https://doi.org/10.1029/2007gl032508) | A. J. S. McGonigle et al. | 188 |  | 🔓 |
 | 2015 | [Thermal infrared imaging of geothermal environments and by an unmanned aerial vehicle (UAV): A case study of the Wairakei – Tauhara geothermal field, Taupo, New Zealand](https://doi.org/10.1016/j.renene.2015.09.042) | Abdul Nishar et al. | 138 | 3D / photogrammetry |  |
 | 2016 | [Drone with thermal infrared camera provides high resolution georeferenced imagery of the Waikite geothermal area, New Zealand](https://doi.org/10.1016/j.jvolgeores.2016.06.014) | Mark Harvey et al. | 105 | Radiometric calibration |  |
 | 2013 | [Remote sensing of volcanoes and volcanic processes: integrating observation and modelling – introduction](https://doi.org/10.1144/sp380.14) | David M. Pyle et al. | 93 |  |  |
@@ -425,11 +426,10 @@ Top 10 most cited of **117** · [see all →](categories/volcano-geothermal.md)
 | 2018 | [Underwater and drone based photogrammetry reveals structural control at Geysir geothermal field in Iceland](https://doi.org/10.1016/j.jvolgeores.2018.01.010) | Thomas R. Walter et al. | 49 | 3D / photogrammetry | 🔓 |
 | 2025 | [An interactive fusion attention-guided network for ground surface hot spring fluids segmentation in dual-spectrum UAV images](https://doi.org/10.1016/j.isprsjprs.2025.01.022) | Yi Shi et al. | 47 | Deep learning, Dataset / benchmark |  |
 | 2019 | [Collecting field data in volcanic landscapes using small UAS (sUAS)/drones](https://doi.org/10.1016/j.jvolgeores.2019.07.006) | Benjamin R. Jordan | 43 |  |  |
-| 2019 | [Combining thermal imaging with photogrammetry of an active volcano using UAV: an example from Stromboli, Italy](https://doi.org/10.1111/phor.12301) | Zoë Wakeford et al. | 42 | 3D / photogrammetry, Multi-sensor fusion | 🔓 |
 
 #### Glaciers, permafrost & snow
 
-Top 10 most cited of **142** · [see all →](categories/cryosphere.md)
+Top 10 most cited of **144** · [see all →](categories/cryosphere.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -446,7 +446,7 @@ Top 10 most cited of **142** · [see all →](categories/cryosphere.md)
 
 #### Landslides, rock & geology
 
-Top 10 most cited of **95** · [see all →](categories/geohazards-geology.md)
+Top 10 most cited of **98** · [see all →](categories/geohazards-geology.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -463,7 +463,7 @@ Top 10 most cited of **95** · [see all →](categories/geohazards-geology.md)
 
 #### Mining, landfills & coal fires
 
-Top 10 most cited of **167** · [see all →](categories/mining-waste.md)
+Top 10 most cited of **174** · [see all →](categories/mining-waste.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -482,7 +482,7 @@ Top 10 most cited of **167** · [see all →](categories/mining-waste.md)
 
 #### Wildfire & fire monitoring
 
-Top 10 most cited of **412** · [see all →](categories/wildfire.md)
+Top 10 most cited of **430** · [see all →](categories/wildfire.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -499,7 +499,7 @@ Top 10 most cited of **412** · [see all →](categories/wildfire.md)
 
 #### Search & rescue, disaster response
 
-Top 10 most cited of **411** · [see all →](categories/search-rescue.md)
+Top 10 most cited of **439** · [see all →](categories/search-rescue.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -518,7 +518,7 @@ Top 10 most cited of **411** · [see all →](categories/search-rescue.md)
 
 #### People, vehicle & object detection
 
-Top 10 most cited of **1378** · [see all →](categories/surveillance-detection.md)
+Top 10 most cited of **1413** · [see all →](categories/surveillance-detection.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -535,7 +535,7 @@ Top 10 most cited of **1378** · [see all →](categories/surveillance-detection
 
 #### Detecting & tracking drones (counter-UAS)
 
-Top 10 most cited of **226** · [see all →](categories/counter-drone.md)
+Top 10 most cited of **233** · [see all →](categories/counter-drone.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -554,7 +554,7 @@ Top 10 most cited of **226** · [see all →](categories/counter-drone.md)
 
 #### Archaeology & cultural heritage
 
-Top 10 most cited of **130** · [see all →](categories/heritage.md)
+Top 10 most cited of **138** · [see all →](categories/heritage.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -573,7 +573,7 @@ Top 10 most cited of **130** · [see all →](categories/heritage.md)
 
 #### Public health & body temperature screening
 
-Top 10 most cited of **61** · [see all →](categories/health-epidemiology.md)
+Top 10 most cited of **63** · [see all →](categories/health-epidemiology.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -592,7 +592,7 @@ Top 10 most cited of **61** · [see all →](categories/health-epidemiology.md)
 
 #### Navigation, landing & localization
 
-Top 10 most cited of **391** · [see all →](categories/navigation.md)
+Top 10 most cited of **399** · [see all →](categories/navigation.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -611,7 +611,7 @@ Top 10 most cited of **391** · [see all →](categories/navigation.md)
 
 #### Calibration, processing & sensor technology
 
-Top 10 most cited of **597** · [see all →](categories/methods-general.md)
+Top 10 most cited of **654** · [see all →](categories/methods-general.md)
 
 | Year | Paper | Authors | Cites | Methods | |
 |---|---|---|--:|---|---|
@@ -630,7 +630,7 @@ Top 10 most cited of **597** · [see all →](categories/methods-general.md)
 ## How this list is built
 
 1. **Search**: [`tools/fetch_openalex.py`](tools/fetch_openalex.py) queries OpenAlex for *(drone terms)* AND *(thermal terms)*. It covers journal articles, conference papers, reviews, preprints, book chapters, books, dissertations, reports, datasets and software, and excludes retracted works.
-2. **Relevance filter**: a paper is listed here only if its title/abstract mentions a drone platform **and** a thermal-imaging term (see `relevance` in [`taxonomy.yaml`](taxonomy.yaml)). A further **16** papers mention drone thermal imaging only in their full text. They are kept in [`data/papers.csv`](data/papers.csv) with `relevance = fulltext` but not listed above.
+2. **Relevance filter**: a paper is listed here only if its title/abstract mentions a drone platform **and** a thermal-imaging term (see `relevance` in [`taxonomy.yaml`](taxonomy.yaml)). A further **1924** papers mention drone thermal imaging only in their full text. They are kept in [`data/papers.csv`](data/papers.csv) with `relevance = fulltext` but not listed above.
 3. **Dedupe**: by OpenAlex ID, DOI and normalized title. Journal versions are preferred over preprints.
 4. **Tagging**: keyword rules assign application areas, methods and sensors. A paper can belong to several areas.
 5. **Human review**: papers are checked by hand over time (✅) and corrected in [`data/papers.csv`](data/papers.csv).

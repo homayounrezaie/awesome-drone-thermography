@@ -1,6 +1,6 @@
 # Navigation, landing & localization
 
-[← back to overview](../README.md) · 391 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 399 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -152,6 +152,7 @@
 | 2025 | [What is the Optimal Path for a Drone Exploring a PV Plant?](https://doi.org/10.5281/zenodo.17629907) | Moriconi et al. | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |
 | 2025 | [Wire Localization Method Based on Visible and Infrared Image Fusion](https://doi.org/10.1109/icbase66587.2025.11181408) | Wen‐Yin Chen et al. | 2025 6th International Conference on Big Data &amp;amp; Artificial Intelligence &amp;amp; Software Engineering (ICBASE) | 0 | Multi-sensor fusion |  |  |
 | 2025 | [Внедрение дронов для мониторинга строительных площадок с целью снижения рисков](https://openalex.org/W7217089072) | Vladimir Yurievich Malkin et al. | Stroitelʹnye i dorožnye mašiny | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
+| 2025 | [Мультимодальная визуальная навигация беспилотных воздушных судов с использованием спутниковых карт и тепловизионных камер](https://doi.org/10.24108/preprints-3114160) | P. A. Lazareva et al. |  | 0 |  |  | 🔓 |
 | 2024 | [Early Wildfire Detection and Distance Estimation Using Aerial Visible-Infrared Images](https://doi.org/10.1109/tie.2024.3387089) | Linhan Qiao et al. | IEEE Transactions on Industrial Electronics | 42 | Deep learning | DJI Zenmuse H20T/N |  |
 | 2024 | [Framework for Autonomous UAV Navigation and Target Detection in Global-Navigation-Satellite-System-Denied and Visually Degraded Environments](https://doi.org/10.3390/rs16030471) | Sebastien Boiteau et al. | Remote Sensing | 37 |  |  | 🔓 |
 | 2024 | [A Cross-View Geo-Localization Algorithm Using UAV Image and Satellite Image](https://doi.org/10.3390/s24123719) | Jiqi Fan et al. | Sensors | 27 | Machine learning, Dataset / benchmark |  | 🔓 |
@@ -176,6 +177,7 @@
 | 2024 | [SPECTRA: A Drone-based Multispectral Sensing Platform for Complex Environment Perception](https://doi.org/10.1145/3636534.3698845) | Yanchen Liu et al. | Proceedings of the 28th Annual International Conference on Mobile Computing And Networking | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2024 | [Study of on-board equipment of modern uavs](https://doi.org/10.32347/uwt.2023.13.1802) | V.V. Mamich et al. | Pidvodni tehnologii | 0 |  |  | 🔓 |
 | 2024 | [UAV Onboard Hotspot Detection using a Lightweight Thermal Camera and Embedded System](https://doi.org/10.1109/intercon63140.2024.10833502) | Ernesto A. Taypicahuana Loza et al. | 2024 IEEE XXXI International Conference on Electronics, Electrical Engineering and Computing (INTERCON) | 0 |  |  |  |
+| 2024 | [ИССЛЕДОВАНИЕ МУЛЬТИМОДАЛЬНЫХ НЕЙРОСЕТЕЙ ДЛЯ РОБОТОВ В РЕАЛЬНОМ ВРЕМЕНИ](https://doi.org/10.52167/1609-1817-2024-135-6-331-340) | Максим Рюмин et al. | Вестник КазАТК | 0 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2023 | [End-to-End Detection of a Landing Platform for Offshore UAVs Based on a Multimodal Early Fusion Approach](https://doi.org/10.3390/s23052434) | Francisco Soares Pinto Neves et al. | Sensors | 19 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2023 | [Long-Range UAV Thermal Geo-Localization with Satellite Imagery](https://doi.org/10.1109/iros55552.2023.10342068) | Jiuhong Xiao et al. | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 18 |  | FLIR Boson |  |
 | 2023 | [Dronevision: An Experimental 3D Testbed for Flying Light Specks](https://doi.org/10.61981/zfsh2301) | Hamed Alimohammadzadeh et al. | First International Conference on Holodecks | 9 |  |  |  |
@@ -202,6 +204,7 @@
 | 2023 | [Obstacle and Collision Avoiding Drone](https://doi.org/10.22214/ijraset.2023.52561) | Ravi Kumar S et al. | International Journal for Research in Applied Science and Engineering Technology | 0 |  |  | 🔓 |
 | 2023 | [Research on Cooperative Target Design and Pose Estimation for UAV Precise Autonomous Landing](https://doi.org/10.1007/978-981-19-6613-2_303) | Anxiao Zhou et al. | Lecture notes in electrical engineering | 0 | Multi-sensor fusion |  |  |
 | 2023 | [Research on Visual Inspection System of Distribution Network Based on Unmanned Aerial Vehicle](https://doi.org/10.1088/1742-6596/2427/1/012027) | Yi Wang et al. | Journal of Physics Conference Series | 0 | Multi-sensor fusion |  | 🔓 |
+| 2023 | [Аналіз джерел та складових похибок супутникових навігаційних вимірювань](https://openalex.org/W7199522057) | Д. В. Карлов et al. | eNTUKhPIIR Repository (Kharkiv Polytechnic Institute) | 0 |  |  | 🔓 |
 | 2022 | [Automatic detection, classification and localization of defects in large photovoltaic plants using unmanned aerial vehicles (UAV) based infrared (IR) and RGB imaging](https://doi.org/10.1016/j.enconman.2022.116495) | Chung‐Feng Jeffrey Kuo et al. | Energy Conversion and Management | 87 | Deep learning |  |  |
 | 2022 | [Fast Multi-UAV Path Planning for Optimal Area Coverage in Aerial Sensing Applications](https://doi.org/10.3390/s22062297) | Marco Andrés Luna et al. | Sensors | 75 | Multi-sensor fusion |  | 🔓 |
 | 2022 | [Visual Navigation Algorithm for Night Landing of Fixed-Wing Unmanned Aerial Vehicle](https://doi.org/10.3390/aerospace9100615) | Zhaoyang Wang et al. | Aerospace | 21 | Deep learning, Multi-sensor fusion |  | 🔓 |
@@ -264,6 +267,7 @@
 | 2020 | [Two-stage Motion Estimation for UAV Landing under GPS-denied Condition](https://doi.org/10.1109/icus50048.2020.9274941) | Lei Zhang et al. | International Conference on Unmanned Systems (ICUS) | 0 |  |  |  |
 | 2020 | [Visual and thermal odometry with Deep Neural Networks](https://doi.org/10.5287/ora-b7m1x17ga) | Muhamad Risqi U. Saputra | Oxford University Research Archive (ORA) (University of Oxford) | 0 | Deep learning, Machine learning |  | 🔓 |
 | 2019 | [Indoor Multi-Camera-Based Testbed for 3-D Tracking and Control of UAVs](https://doi.org/10.1109/tim.2019.2928615) | Heng Deng et al. | IEEE Transactions on Instrumentation and Measurement | 60 | 3D / photogrammetry |  |  |
+| 2019 | [Thermal-Inertial Odometry for Autonomous Flight Throughout the Night](https://doi.org/10.1109/iros40897.2019.8968238) | Jeff H. Delaune et al. | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 49 | Radiometric calibration |  |  |
 | 2019 | [A UAV Resolution and Waveband Aware Path Planning for Onion Irrigation Treatments Inference](https://doi.org/10.1109/icuas.2019.8798188) | Haoyu Niu et al. | International Conference on Unmanned Aircraft Systems (ICUAS) | 41 | Radiometric calibration, Multi-sensor fusion |  |  |
 | 2019 | [Unmanned Aerial vehicle’s runway landing system with efficient target detection by using morphological fusion for military surveillance system](https://doi.org/10.1016/j.comcom.2019.12.039) | N. Nagarani et al. | Computer Communications | 35 | Multi-sensor fusion |  |  |
 | 2019 | [UAV Localization Using Panoramic Thermal Cameras](https://doi.org/10.1007/978-3-030-34995-0_69) | Anthony Thomas et al. | Lecture notes in computer science | 19 |  |  |  |
@@ -272,6 +276,7 @@
 | 2019 | [Meteorite Hunting Using Deep Learning and UAVs](https://doi.org/10.1109/icspis48135.2019.9045905) | Aisha Alowais et al. | International Conference on Signal Processing and Information Security (ICSPIS) | 12 | Deep learning, Machine learning |  |  |
 | 2019 | [Colored-Noise Tracking of Floating Objects using UAVs with Thermal Cameras](https://doi.org/10.1109/icuas.2019.8797931) | Håkon Hagen Helgesen et al. | International Conference on Unmanned Aircraft Systems (ICUAS) | 6 |  |  | 🔓 |
 | 2019 | [Real-time gas leak detection and localization using SWIR camera](https://doi.org/10.1117/12.2537924) | Aysha Al Hosani et al. | Infrared Sensors, Devices, and Applications IX | 5 |  |  |  |
+| 2019 | [The concept of thermovision sensor supporting the navigation of unmanned aerial platforms](https://openalex.org/W3130886165) | Grzegorz Bieszczad et al. | Measurement, Automation, Monitoring | 4 |  |  |  |
 | 2019 | [Stochastic Trajectory Optimization for Autonomous Soaring of UAV](https://doi.org/10.1016/j.ifacol.2019.12.021) | Emmanuel Schermann et al. | IFAC-PapersOnLine | 3 |  |  | 🔓 |
 | 2019 | [Motion Parallax Estimation for Ultra Low Altitude Obstacle Avoidance](https://doi.org/10.1109/icus48101.2019.8995948) | Changqing Wang et al. | IEEE International Conference on Unmanned Systems (ICUS) | 2 | Deep learning |  |  |
 | 2019 | [Recognition of Landing Target of UAV by Vision Using Machine Learning](https://doi.org/10.2299/jsp.23.193) | Yuya Homma et al. | Journal of Signal Processing | 2 | Machine learning |  | 🔓 |
@@ -312,6 +317,7 @@
 | 2017 | [Development of a Plug-and-Play Infrared Landing System for Multirotor Unmanned Aerial Vehicles](https://doi.org/10.1109/crv.2017.23) | Ephraim Nowak et al. | Conference on Computer and Robot Vision (CRV) | 10 |  |  |  |
 | 2017 | [Overview of the research on state-of-the-art measurement sensors for UAV navigation](https://doi.org/10.1109/metroaerospace.2017.7999532) | Bartosz Brzozowski et al. | IEEE International Workshop on Metrology for AeroSpace (MetroAeroSpace) | 10 |  |  |  |
 | 2017 | [Keynote: Navigating Small-UAS in Tunnels for Maintenance and Surveillance Operations](https://doi.org/10.33012/2017.15020) | Akshay S. Bharadwaj et al. | Proceedings of the ION ... Pacific PNT Meeting/Proceedings of the Institute of Navigation Pacific PNT | 4 |  | FLIR Lepton |  |
+| 2017 | [Assessment of Possibilities to Use Thermal Imaging Cameras for Air Traffic Control](https://doi.org/10.1515/aon-2017-0014) | Jacek Zalewski et al. | Annual of Navigation | 2 |  |  | 🔓 |
 | 2017 | [Height Estimation of a Blimp Unmanned Aerial Vehicle Using Inertial Measurement Unit and Infrared Camera](https://doi.org/10.20381/ruor-20915) | Villeneuve | uO Research (University of Ottawa) | 1 | Multi-sensor fusion |  | 🔓 |
 | 2017 | [Smart drone camera crew films every angle](https://doi.org/10.1016/s0262-4079(17)32475-2) | Chris Baraniuk | The New Scientist | 1 |  |  |  |
 | 2017 | [Aerodynamics simulation studies on the observation head placed on a board of the unmanned aerial vehicle](https://doi.org/10.1051/epjconf/201714302057) | Izabela Krzysztofik et al. | EPJ Web of Conferences | 0 |  |  | 🔓 |
@@ -319,6 +325,7 @@
 | 2017 | [looking inside](https://doi.org/10.1049/el.2017.2509) | anonymous | Electronics Letters | 0 | Machine learning |  |  |
 | 2016 | [Autonomous UAVs wildlife detection using thermal imaging, predictive navigation and computer vision](https://doi.org/10.1109/aero.2016.7500671) | Sean Ward et al. | Proceedings - IEEE Aerospace Conference | 76 |  |  | 🔓 |
 | 2016 | [PRICISE TARGET GEOLOCATION AND TRACKING BASED ON UAV VIDEO IMAGERY](https://doi.org/10.5194/isprs-archives-xli-b6-243-2016) | H. R. Hosseinpoor et al. | The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences | 23 | 3D / photogrammetry |  | 🔓 |
+| 2016 | [Multi-spectral visual odometry for unmanned air vehicles](https://doi.org/10.1109/smc.2016.7844533) | Axel Beauvisage et al. | Conference proceedings/Conference proceedings - IEEE International Conference on Systems, Man, and Cybernetics | 21 |  |  |  |
 | 2016 | [Design of a system for Aircraft Fuselage Inspection](https://doi.org/10.1109/sieds.2016.7489315) | Rui Filipe Fernandez et al. | IEEE Systems and Information Engineering Design Symposium (SIEDS) | 9 |  |  |  |
 | 2016 | [Method of landing UAV of helicopter type using an infrared camera](https://doi.org/10.38013/2542-0542-2016-3-67-73) | K. V. Ivannikov et al. | Journal of «Almaz – Antey» Air and Defence Corporation | 2 |  |  | 🔓 |
 | 2016 | [Small-UAS navigation using 3D imager and infrared camera in structured environments](https://doi.org/10.1109/plans.2016.7479751) | Akshay Bharadwaj et al. | IEEE/ION Position Location and Navigation Symposium | 2 | Multi-sensor fusion |  |  |
@@ -383,6 +390,7 @@
 | 2006 | [Goruntu Destekli Ataletsel Seyriusefer Sistemlerinin Analizi Analysis ofVision AidedInertial Navigation Systems](https://openalex.org/W2186210405) | Yigiter Yuksel et al. |  | 0 |  |  |  |
 | 2005 | [RIC (robust internal-loop compensator) based flight control of a quad-rotor type UAV](https://doi.org/10.1109/iros.2005.1545113) | S. Park et al. | IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) | 54 |  |  |  |
 | 2005 | [IR depth from stereo for autonomous navigation](https://doi.org/10.1117/12.604151) | John Zelek et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 5 | Radiometric calibration |  |  |
+| 2005 | [Bildanalys för navigering i autonoma sensor-platformar](https://openalex.org/W1198148530) | H. Nilsson et al. | Diva portal (Dalarna University Library) | 0 |  |  | 🔓 |
 | 2004 | [Navigation Aided Image Processing in UAV Surveillance: Preliminary Results and Design of an Airborne Experimental System](https://doi.org/10.1002/rob.10128) | Jonas Nygårds et al. | Journal of Robotic Systems | 18 | 3D / photogrammetry |  |  |
 | 2004 | [Automatic 3D object pose estimation in IR image sequences for forward motion applications](https://doi.org/10.1117/12.542182) | Klaus Jäger et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 4 |  |  | 🔓 |
 | 2004 | [A Low Computation Method to Determine Horizon Angle from Video-Preliminary version.](https://openalex.org/W2322963201) | Terry Cornall |  | 1 |  |  |  |

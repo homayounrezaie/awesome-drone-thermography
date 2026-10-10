@@ -1,6 +1,6 @@
 # Bridges, pavements & civil structures
 
-[← back to overview](../README.md) · 261 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 267 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -50,9 +50,11 @@
 | 2026 | [Toward Low-Speed Infrared Communications for Small Drone Operations](https://doi.org/10.3837/tiis.2026.06.025) | Sangmork Park et al. | KSII Transactions on Internet and Information Systems | 0 |  |  | 🔓 |
 | 2026 | [UAV-Based Infrastructure Inspections: A Literature Review and Proposed Framework for AEC+FM](https://doi.org/10.48550/arxiv.2601.11665) | Amir Farzin Nikkhah et al. | arXiv (Cornell University) | 0 | Deep learning, Machine learning, 3D / photogrammetry, Multi-sensor fusion, Review / survey |  | 🔓 |
 | 2026 | [UAV-Based Thermal Sensing: Community-Based Learning and Research](https://doi.org/10.1109/cspa68262.2026.11517744) | Kelvin Tang Kang Wee et al. | IEEE International Colloquium on Signal Processing & Its Applications (CSPA) | 0 |  |  |  |
+| 2026 | [UAV-CB: A Complex-Background RGB-T Dataset and Local Frequency Bridge Network for UAV Detection](https://doi.org/10.48550/arxiv.2603.17492) | Shenghui Huang et al. | arXiv (Cornell University) | 0 | Multi-sensor fusion, Dataset / benchmark |  | 🔓 |
 | 2026 | [Use of unmanned aerial vehicles and thermal cameras to monitor temperature during asphalt pavement construction](https://doi.org/10.6084/m9.figshare.34024665) | Patricio Jesús Martínez Carricondo | Figshare | 0 |  |  | 🔓 |
 | 2026 | [Virtualizing bridge inspections – multi-diagnostic pylon case study](https://doi.org/10.1201/9781003778677-42) | M. Salamak et al. | CRC Press eBooks | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
 | 2026 | [Исследование применения БПЛА для выявления скрытых дефектов ограждающих конструкций зданий и оценки их влияния на уровень теплопотерь в условиях городской застройки](https://openalex.org/W7217211195) | Куликов Дмитрий Алексеевич et al. | Stroitelʹnye i dorožnye mašiny | 0 | Machine learning, Multi-sensor fusion | DJI Mavic 3 Thermal |  |
+| 2026 | [Розробка БПЛА-комплексів для обстеження пошкоджених об’єктів із застосуванням комп’ютерної графіки](https://doi.org/10.52363/2524-0226-2026-43-3) | Віталій Томенко et al. | Problems of Emergency Situations | 0 |  |  | 🔓 |
 | 2026 | [СЕМАНТИЧЕСКАЯ СЕГМЕНТАЦИЯ СЕЗОННЫХ РАЗНОВРЕМЕННЫХ МНОГОСПЕКТРАЛЬНЫХ ИЗОБРАЖЕНИЙ С ИСПОЛЬЗОВАНИЕМ МОДЕЛЕЙ НЕЧЕТКОЙ ЛОГИКИ И СЕТИ U-NET](https://doi.org/10.25791/pribor.8.2026.1697) | Н. ИЩУК И et al. | Приборы и системы. Управление, контроль, диагностика. | 0 | Deep learning, Multi-sensor fusion |  |  |
 | 2025 | [Sensing Techniques for Structural Health Monitoring: A State-of-the-Art Review on Performance Criteria and New-Generation Technologies](https://doi.org/10.3390/s25051424) | Ali Mardanshahi et al. | Sensors | 152 | Multi-sensor fusion, Review / survey |  | 🔓 |
 | 2025 | [Nondestructive Testing of Externally Bonded FRP Concrete Structures: A Comprehensive Review](https://doi.org/10.3390/polym17091284) | Eyad Alsuhaibani | Polymers | 23 | Machine learning, Review / survey |  | 🔓 |
@@ -89,6 +91,7 @@
 | 2025 | [DRONES AND REMOTE SENSING FOR NON-DESTRUCTIVE TESTING OF MARINE CONCRETE STRUCTURES IN THE BALTIC SEA](https://doi.org/10.22260/ccc2025/0092) | Lukasz Sadowski et al. | Creative Construction Conference (CCC) | 0 | 3D / photogrammetry |  | 🔓 |
 | 2025 | [Dam leakage detection based on unmanned aerial vehicle multi-sensor](https://doi.org/10.5194/isprs-annals-x-1-w2-2025-161-2025) | Tongqi Wang et al. | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2025 | [Depth-constrained polarimetric-infrared fusion for 3D nondestructive inspection](https://doi.org/10.1117/12.3079457) | Honghui Liu et al. | AOPC 2025: Infrared and Terahertz Technology and Applications | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
+| 2025 | [Drones para inspeção de monotrilhos](https://doi.org/10.29327/2774886.9.29-1) | Caio Pompeu Cavalhieri et al. | Revista IPT/Revista do IPT - Pesquisa e Tecnologia | 0 |  | DJI Mavic 2 Enterprise Advanced | 🔓 |
 | 2025 | [Evaluation of Subsurface Damage for In-Service Concrete Dam by Time-Series Deep Learning with Three-Dimensional Shadow Modeling](https://doi.org/10.58286/31665) | Kazuma Shibano et al. | e-Journal of Nondestructive Testing | 0 | Deep learning, 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2025 | [Evaluation of dam leakage detection using UAV-based 3D ground penetrating radar](https://doi.org/10.1109/igarss55030.2025.11243172) | Shuang Ye et al. | IEEE International Geoscience and Remote Sensing Symposium (IGARSS) | 0 |  |  |  |
 | 2025 | [Experiences from thermal drone imaging field campaign for developing automated tailing pond monitoring](https://doi.org/10.1117/12.3053573) | Sami Siikanen et al. | Thermosense: Thermal Infrared Applications XLVII | 0 | 3D / photogrammetry |  |  |
@@ -102,6 +105,7 @@
 | 2025 | [THERMOGRAPHIC DIAGNOSTICS OF AERODYNAMICS OF TRANSPORT MODELS DURING THEIR CONCEPTUAL DESIGN](https://doi.org/10.33744/0365-8171-2025-117.2-407-419) | Nikolai Kyzminec et al. | Automobile Roads and Road Construction | 0 |  |  |  |
 | 2025 | [Technology and Sustainability in Heritage Conservation: Non-Invasive Inspection of the Roman Bridge of Segura Using Microtechnology](https://doi.org/10.24857/rgsa.v19n3-011) | Rubén Rodríguez Elizalde | Revista de Gestão Social e Ambiental | 0 |  |  | 🔓 |
 | 2025 | [Thermography Applied to Old Masonry Constructions](https://doi.org/10.5772/intechopen.1009693) | Rubén Rodríguez Elizalde | IntechOpen eBooks | 0 |  |  | 🔓 |
+| 2025 | [Uso de drones en el monitoreo térmico sin contacto de puentes](https://doi.org/10.26507/paper.4682) | Pedro Cavadía et al. | Encuentro Internacional de Educación en Ingeniería | 0 |  |  | 🔓 |
 | 2025 | [Комплексная система контроля качества и надзора в строительстве высотных зданий с применением BIM цифровых двойников и беспилотного мониторинга для обеспечения соответствия требованиям безопасности устойчивости и энергоэффективности](https://openalex.org/W7216691666) | Артем Алексеевич Надежкин et al. | Stroitelʹnye i dorožnye mašiny | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
 | 2024 | [UAV-based studies in railway infrastructure monitoring](https://doi.org/10.1016/j.autcon.2024.105714) | Peyman Aela et al. | Automation in Construction | 89 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2024 | [Inspection of aircrafts and airports using UAS: A review](https://doi.org/10.1016/j.rineng.2024.102330) | Didier Aldana Rodríguez et al. | Results in Engineering | 26 | Deep learning, 3D / photogrammetry, Multi-sensor fusion, Review / survey |  | 🔓 |
@@ -242,6 +246,7 @@
 | 2018 | [Infrared and High-definition Image-based Bridge Scanning Using UAVs without Traffic Control](https://doi.org/10.32548/rs.2018.012) | Shuhei Hiasa et al. | ASNT Research Symposium | 3 |  |  |  |
 | 2018 | [Close Range Photogrammetry and Thermal Imagery in Monitoring of Soil Moisture in Dam Structures of Historical Fishponds](https://doi.org/10.3390/proceedings2110623) | Josef Krása et al. | EWaS3 2018 | 1 | 3D / photogrammetry | FLIR Tau 2, Optris | 🔓 |
 | 2018 | [Condition Assessment of Concrete Bridge Decks Using Ground and Airborne Infrared Thermography](https://openalex.org/W2795580714) | Tarek Omar | Scholarship@Western (Western University) | 1 |  |  | 🔓 |
+| 2018 | [LEVANTAMENTO E CADASTRAMENTO DE PATOLOGIAS ESTRUTURAIS UTILIZANDO FOTOGRAFIAS TERMOGRÁFICAS E DRONES NA COMPOSIÇÃO DE BANCO GEOGRÁFICOS](https://doi.org/10.5102/pic.n3.2017.5774) | Marcos Eliade Alves Gomes et al. | Programa de Iniciação Científica - PIC/UniCEUB - Relatórios de Pesquisa | 1 |  |  | 🔓 |
 | 2018 | [Unmanned aerial vehicle-based sounding of subsurface concrete defects](https://doi.org/10.1121/1.5054012) | Sean Blaney et al. | The Journal of the Acoustical Society of America | 1 |  |  |  |
 | 2018 | [Assessment of models predicting the maximum surface temperature in an urban setting using VIS/NIR/IR imaging from UAVs](https://openalex.org/W2894845379) | Marija Vukovic | NORA - Norwegian Open Research Archives | 0 |  | Optris | 🔓 |
 | 2018 | [드론 열화상활용 저수지 제체 누수탐사](https://openalex.org/W2950577244) | 이준구 et al. | 한국농공학회논문집 | 0 |  |  |  |
@@ -258,6 +263,7 @@
 | 2016 | [Emerging city-scale damage prediction options for urban tunnelling](https://doi.org/10.1201/9781315616995-2) | Debra F. Laefer | CRC Press eBooks | 4 | Multi-sensor fusion |  |  |
 | 2016 | [Active Thermographic NDT for Concrete Structures Using Scanning Heater](https://doi.org/10.1299/jsmemm.2016.ps-31) | Masato Takeuchi et al. | The Proceedings of the Materials and Mechanics Conference | 0 |  |  | 🔓 |
 | 2016 | [Examination of the validity of monitoring method for bridge damaged by chloride using UAV](https://doi.org/10.1201/9781315375175-112) | Mitsuharu Tokunaga et al. | CRC Press eBooks | 0 |  |  |  |
+| 2015 | [Evaluating the Use of Unmanned Aerial Vehicles for Transportation Purposes](https://openalex.org/W597291169) | Colin Brooks et al. | Digital Commons - Michigan Tech (Michigan Technological University) | 34 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2015 | [Design and implementation of vision-based structural safety inspection system using small unmanned aircraft](https://doi.org/10.1109/icact.2015.7224924) | Sung-suk Choi et al. | International Conference on Advanced Communication Technology | 14 |  |  |  |
 | 2015 | [Hyperspectral imaging utility for transportation systems](https://doi.org/10.1117/12.2083957) | Raj Bridgelall et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 4 | Multi-sensor fusion |  |  |
 | 2014 | [Damage assessment using advanced non-intrusive inspection methods: integration of space, UAV, GPR, and field spectroscopy](https://doi.org/10.1117/12.2069507) | Kyriacos Themistocleous et al. | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE | 30 |  |  |  |

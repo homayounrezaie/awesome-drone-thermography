@@ -1,6 +1,6 @@
 # Urban heat & microclimate
 
-[← back to overview](../README.md) · 190 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 193 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -174,6 +174,8 @@
 | 2020 | [Analysis of the Thermal Environment in Pedestrian Space Using 3D Thermal Imaging](https://doi.org/10.3390/en13143674) | Xuexiu Zhao et al. | Energies | 34 | 3D / photogrammetry |  | 🔓 |
 | 2020 | [ASSESSING THE MICRO-SCALE TEMPERATURE-HUMIDITY INDEX (THI) ESTIMATED FROM UNMANNED AERIAL SYSTEMS AND SATELLITE DATA](https://doi.org/10.5194/isprs-annals-v-3-2020-745-2020) | Kotaro Iizuka et al. | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences | 4 | Machine learning, 3D / photogrammetry |  | 🔓 |
 | 2020 | [A Study on the Spatial Strategies in Response to Heat Waves through Analyzing Urban Thermal Environment by UAV: Based on the Urban Regeneration Project in Yeongdo-gu, Busan](https://doi.org/10.25202/jakg.9.1.13) | Keonhyeong Kim et al. | Journal of the Association of Korean Geographers | 2 |  |  |  |
+| 2020 | [Acquisition d’images thermiques infrarouges par drone pour la caractérisation de l’ICU de surface à échelle fine : étude pilote dans une ZAE du territoire de Metz Métropole (le plateau de Frescaty](https://openalex.org/W3016829928) | Gilles Drogue et al. | HAL (Le Centre pour la Communication Scientifique Directe) | 1 |  |  |  |
+| 2020 | [ANÁLISE DAS ILHAS DE CALOR URBANO SOBRE ZONAS CLIMÁTICAS LOCAIS COM O USO DE VEÍCULO AÉREO NÃO TRIPULADO - VANT](https://doi.org/10.46421/entac.v18i.709) | Otávio Reis Megda et al. | Encontro Nacional de Tecnologia do Ambiente Construído | 0 |  |  | 🔓 |
 | 2019 | [Evaluating the Variability of Urban Land Surface Temperatures Using Drone Observations](https://doi.org/10.3390/rs11141722) | Joseph B. Naughton et al. | Remote Sensing | 82 |  |  | 🔓 |
 | 2019 | [Drone-assisted infrared thermography for calibration of outdoor microclimate simulation models](https://doi.org/10.1016/j.scs.2019.101855) | Kristian Fabbri et al. | Sustainable Cities and Society | 79 |  |  |  |
 | 2019 | [The coupling relationship between construction land expansion and high-temperature area expansion in China’s three major urban agglomerations](https://doi.org/10.1080/01431161.2019.1590877) | Zhiwei Yang et al. | International Journal of Remote Sensing | 40 |  |  |  |
@@ -186,6 +188,7 @@
 | 2018 | [THERMAL ANALYSIS OF URBAN LAND COVER USING AN UNMANED AERIAL VEHICLE (UAV) IN MEDELLIN, COLOMBIA](https://doi.org/10.4090/juee.2017.v11n2.142149) | Engelberth Soto-Estrada et al. | Journal of Urban and Environmental Engineering | 7 |  |  | 🔓 |
 | 2018 | [Applicability of UAV in Urban Thermal Environment Analysis](https://doi.org/10.9715/kila.2018.46.2.052) | Da-In Kang et al. | Journal of the Korean Institute of Landscape Architecture | 4 |  |  | 🔓 |
 | 2018 | [Urban surfaces studied by VIS/NIR imaging from UAV: possibilities and limitations](https://doi.org/10.1117/12.2326057) | I. Burud et al. | International Conference on Remote Sensing and Geoinformation of the Environment (RSCy) | 3 | Radiometric calibration, Multi-sensor fusion |  | 🔓 |
+| 2018 | [도시 내 열환경 분석에서 무인항공기의 활용가능성](https://openalex.org/W3189595152) | Da-In Kang et al. |  | 0 |  |  |  |
 | 2017 | [High-resolution spectral mapping of urban thermal properties with Unmanned Aerial Vehicles](https://doi.org/10.1016/j.buildenv.2017.05.027) | Niki Gaitani et al. | Building and Environment | 96 | Multi-sensor fusion |  |  |
 | 2017 | [Analysis of urban surface temperature change using structure-from-motion thermal mosaicing](https://doi.org/10.1016/j.uclim.2017.04.004) | Tsuyoshi Honjo et al. | Urban Climate | 17 | 3D / photogrammetry |  |  |
 | 2017 | [Reflectance and thermal properties of the urban fabric studied with aerial spectral imaging](https://doi.org/10.1117/12.2279129) | I. Burud et al. | International Conference on Remote Sensing and Geoinformation of the Environment (RSCy) | 4 | Radiometric calibration, Multi-sensor fusion |  |  |

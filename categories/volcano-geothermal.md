@@ -1,6 +1,6 @@
 # Volcanoes & geothermal areas
 
-[← back to overview](../README.md) · 117 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 124 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -41,6 +41,7 @@
 | 2024 | [Clusterisation and Temporal Trends of Heat Flux by UAS Thermal Camera](https://doi.org/10.3390/rs16061102) | Enrica Marotta et al. | Remote Sensing | 4 |  |  | 🔓 |
 | 2024 | [Trace Element Emissions Vary With Lava Flow Age and Thermal Evolution During the Fagradalsfjall 2021–2023 Eruptions, Iceland](https://doi.org/10.1029/2024gc011822) | Laura Wainman et al. | Geochemistry Geophysics Geosystems | 3 |  |  | 🔓 |
 | 2024 | [First Results of UAV Infrared Survey of Thermal Objects of the Kuril Islands in 2023](https://doi.org/10.1134/s1819714024700544) | Т. А. Котенко | Russian Journal of Pacific Geology | 1 | Review / survey |  |  |
+| 2024 | [Depremlerin Jeotermal Alanlardaki Yüzey Sıcaklık Değişimine Etkisinin İnsansız Hava Aracı Termal Görüntüleme ile Belirlenmesi](https://openalex.org/W7132406392) | Deniz Şanlıyüksel Yücel et al. | Çanakkale Onsekiz Mart University AVESIS | 0 |  |  |  |
 | 2024 | [Management Systems to Follow the Evolution of Natural Disasters in Real Time. Case Study of Environmental Monitoring in Campania Region, Italy](https://doi.org/10.1109/iceccme62383.2024.10796316) | Orazio Colucci et al. | International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) | 0 |  |  |  |
 | 2024 | [Termal kızılötesi uzaktan algılama ve arazi uygulamaları ile jeotermal anomalilerin tayini](https://openalex.org/W7139386788) | Selim Cambazoğlu | OpenMETU (Middle East Technical University) | 0 |  |  | 🔓 |
 | 2023 | [Remote sensing for mineral exploration](https://doi.org/10.1016/b978-0-323-95608-6.00002-0) | Amin Beiranvand Pour et al. | Elsevier eBooks | 51 | Radiometric calibration, Multi-sensor fusion |  |  |
@@ -84,6 +85,7 @@
 | 2020 | [Detection and Avoidance of Atmospheric Aviation Hazards Using Infrared Spectroscopic Imaging](https://doi.org/10.3390/rs12142309) | Fred J. Prata | Remote Sensing | 8 |  |  | 🔓 |
 | 2020 | [Thermal UAS survey of reactivated hot spring activity in Waiwera, New Zealand](https://doi.org/10.5194/adgeo-54-165-2020) | Melissa Präg et al. | Advances in geosciences | 8 | 3D / photogrammetry, Review / survey |  | 🔓 |
 | 2020 | [Topography changes and thermal distribution at the Kelud crater after the 2014 Plinian eruption](https://doi.org/10.22146/ijg.51986) | Wahyudi Wahyudi et al. | Indonesian Journal of Geography | 3 | 3D / photogrammetry |  | 🔓 |
+| 2020 | [Rancang Bangun Sistem Akuisisi Data Infra Merah Menggunakan Pesawat Udara Tanpa Awak (UAV) untuk Memantau Aktivitas Gunungapi](https://doi.org/10.22146/jfi.v23i1.39975) | Wahyudi Wahyudi et al. | Jurnal Fisika Indonesia | 2 |  |  | 🔓 |
 | 2020 | [Multiscale and Multisensor Observations on Geothermal Area: 2019 Acquisitions Over Parco Delle Biancane and Sasso Pisano (Italy)](https://doi.org/10.1109/igarss39084.2020.9323993) | Malvina Silvestri et al. | IEEE International Geoscience and Remote Sensing Symposium (IGARSS) | 1 | Multi-sensor fusion |  | 🔓 |
 | 2020 | [The stability and collapse of lava domes: insight from UAS-derived 4D structure and slope stability models](https://doi.org/10.1002/essoar.10501992.1) | Brett B. Carr et al. |  | 0 | 3D / photogrammetry |  |  |
 | 2019 | [Collecting field data in volcanic landscapes using small UAS (sUAS)/drones](https://doi.org/10.1016/j.jvolgeores.2019.07.006) | Benjamin R. Jordan | Journal of Volcanology and Geothermal Research | 43 |  |  |  |
@@ -93,10 +95,12 @@
 | 2019 | [System for Diagnosing Main Pipelines of Heat Networks Based on UAVs](https://openalex.org/W3183295171) | Artur O. Zaporozhets | Electronic Institutional Repository of the National Aviation University of Ukraine (National Aviation University, Ukraine) | 2 | 3D / photogrammetry |  | 🔓 |
 | 2019 | [Estimates of CO2 concentration released at the Lusi eruption site (Indonesia): a drone and GasPro CO2 monitoring probe experiment.](https://openalex.org/W3115827830) | Alessandra Sciarra et al. | IRIS Research product catalog (Sapienza University of Rome) | 0 |  |  | 🔓 |
 | 2019 | [UAS thermal mappings of Pisciarelli area (Phlegran Fields, Italy) from 2019 to 2023 with analysed data.](https://doi.org/10.5281/zenodo.10551265) | Enrica Marotta et al. | Zenodo (CERN European Organization for Nuclear Research) | 0 |  |  | 🔓 |
+| 2019 | [İnsansız Hava Aracı Destekli Termal Kamera Görüntülerinin Jeotermal Kaynakların İncelenmesinde Kullanımı](https://openalex.org/W7132312572) | SÜHA ÖZDEN et al. | Çanakkale Onsekiz Mart University AVESIS | 0 |  |  |  |
 | 2018 | [Underwater and drone based photogrammetry reveals structural control at Geysir geothermal field in Iceland](https://doi.org/10.1016/j.jvolgeores.2018.01.010) | Thomas R. Walter et al. | Journal of Volcanology and Geothermal Research | 49 | 3D / photogrammetry |  | 🔓 |
 | 2018 | [Structural weakening of the Merapi dome identified by drone photogrammetry after the 2010 eruption](https://doi.org/10.5194/nhess-18-3267-2018) | Herlan Darmawan et al. | Natural hazards and earth system sciences | 36 | 3D / photogrammetry |  | 🔓 |
 | 2018 | [The Use of Unmanned Aerial Vehicle for Geothermal Exploitation Monitoring: Khankala Field Example](https://doi.org/10.13044/j.sdewes.d6.0196) | Sergey V. Cherkasov et al. | Journal of Sustainable Development of Energy Water and Environment Systems | 16 |  |  | 🔓 |
 | 2018 | [An Experiment of Geothermal Exploration with an Uas-Tir in Xiaoyoukeng Area of Tatun Volcanoes, Taiwan](https://doi.org/10.1109/igarss.2018.8518437) | Chun-Jung Lai et al. | IEEE International Geoscience and Remote Sensing Symposium (IGARSS) | 2 |  |  |  |
+| 2018 | [PEMANFAATAN PESAWAT UDARA NIR AWAK (PUNA) UNTUK PEMANTAUAN MITIGASI BENCANA GUNUNG BERAPI](https://doi.org/10.29122/mipi.v11i3.2486) | Yomi Guno | Majalah ilmiah Pengkajian Industri | 2 |  |  | 🔓 |
 | 2018 | [Signals and sources of Strombolian explosions: linking acoustic and thermal infrared recordings with UAV-based vent geometries.](https://openalex.org/W3087690144) | Jacopo Taddeucci et al. | EGU General Assembly Conference Abstracts | 1 |  |  |  |
 | 2018 | [UAV geothermal mapping in Austurengjar](https://openalex.org/W2943222377) | Jóhann Mar Ólafsson |  | 1 |  |  |  |
 | 2017 | [Preliminary Study of UAS Equipped with Thermal Camera for Volcanic Geothermal Monitoring in Taiwan](https://doi.org/10.3390/s17071649) | Shih‐Hong Chio et al. | Sensors | 29 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
@@ -110,7 +114,9 @@
 | 2016 | [A multidisciplinary strategy for in-situ and remote sensing monitoring of areas affected by pressurized fluids: Application to mud volcanoes: A multidisciplinary environmental monitoring strategy](https://doi.org/10.1109/sas.2016.7479861) | Filippo Greco et al. | IEEE Sensors Applications Symposium (SAS) | 4 |  |  |  |
 | 2016 | [Applicability evaluation of the drone-mounted thermal infrared camera to geothermal monitoring at Sumikawa site, Akita Prefecture](https://openalex.org/W2613138898) | Makoto Kobayashi et al. | Japan Geoscience Union | 0 |  |  |  |
 | 2016 | [The NASA Applied Sciences Program: Volcanic Ash Observations and Applications](https://openalex.org/W2582244524) | John Murray et al. | NASA Technical Reports Server (NASA) | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
+| 2016 | [무인항공기와 열영상 카메라를 이용한 남극대륙 화산 탐사 타당성 조사](https://openalex.org/W2493181482) | 양재현 et al. | 한국정밀공학회 학술발표대회 논문집 | 0 |  |  |  |
 | 2015 | [Thermal infrared imaging of geothermal environments and by an unmanned aerial vehicle (UAV): A case study of the Wairakei – Tauhara geothermal field, Taupo, New Zealand](https://doi.org/10.1016/j.renene.2015.09.042) | Abdul Nishar et al. | Renewable Energy | 138 | 3D / photogrammetry |  |  |
+| 2015 | [İHA Destekli Dijital ve Termal Kamera Görüntülerine Dayalı Jeotermal Analiz Yöntemleri](https://openalex.org/W7201923486) | Özgün Akçay et al. | Çanakkale Onsekiz Mart University Institutional Repository | 0 |  |  | 🔓 |
 | 2014 | [Measurement and Exploration in Volcanic Environments](https://doi.org/10.1007/978-90-481-9707-1_76) | Carmelo Donato Melita et al. | Springer eBooks | 15 |  |  |  |
 | 2013 | [Remote sensing of volcanoes and volcanic processes: integrating observation and modelling – introduction](https://doi.org/10.1144/sp380.14) | David M. Pyle et al. | Geological Society London Special Publications | 93 |  |  |  |
 | 2013 | [UAV Thermal Infrared Remote Sensing of an Italian Mud Volcano](https://doi.org/10.4236/ars.2013.24038) | Stefania Amici et al. | Advances in Remote Sensing | 33 |  |  | 🔓 |
@@ -119,5 +125,6 @@
 | 2012 | [In volo con l’occhio termico](https://openalex.org/W1919644035) | Emanuele L. de Angelis et al. | DOAJ (DOAJ: Directory of Open Access Journals) | 0 |  |  | 🔓 |
 | 2011 | [In Situ Observations and Sampling of Volcanic Emissions with Unmanned Aircraft: A NASA/UCR Case Study at Turrialba Volcano, Costa Rica](https://openalex.org/W2155481930) | David C. Pieri et al. | NASA Technical Reports Server (NASA) | 1 | Multi-sensor fusion |  |  |
 | 2010 | [Cardiac Volume Overload Induces Mitochondrial Dysfunction in Murine Cardiomyocytes](https://doi.org/10.1016/j.freeradbiomed.2010.10.063) | Blake R. Zelickson et al. | Free Radical Biology and Medicine | 0 |  |  |  |
+| 2008 | [Unmanned aerial vehicle measurements of volcanic carbon dioxide fluxes](https://doi.org/10.1029/2007gl032508) | A. J. S. McGonigle et al. | Geophysical Research Letters | 188 |  |  | 🔓 |
 | 2007 | [UAV SYSTEM DEVELOPMENT FOR THE MONITORING AND STUDY VOLCANIC AND NATURAL HAZARD EVENTS.](https://openalex.org/W2802104766) | Gian Marco Saggiani et al. | Archivio istituzionale della ricerca (Alma Mater Studiorum Università di Bologna) | 5 |  |  |  |
 | 1981 | [Evolução geoquímica, mineralógica e micromorfologica no processo de bauxitização : estudocomparativo dos depósitos de Mogi das Cruzes, Curucutu e Lavrinhas, SP, associados a diferentes tipos litológicos](https://doi.org/10.11606/d.44.1981.tde-24062015-084701) | Maria Cristina Motta de Toledo | Universidade de São Paulo | 0 |  |  | 🔓 |

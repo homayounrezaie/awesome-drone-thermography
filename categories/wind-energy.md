@@ -1,6 +1,6 @@
 # Wind turbines
 
-[← back to overview](../README.md) · 46 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 48 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -14,6 +14,7 @@
 | 2026 | [A UAV-Mounted Sensor Network for Close-Range Inspection of Wind Turbine Rotor Blades](https://doi.org/10.48550/arxiv.2606.21220) | Jost Wittmann et al. | arXiv (Cornell University) | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2026 | [Cross-Sensor Consistency-Guided Dual-Spectrum Fusion for Offshore Wind Turbine Blade Defect Diagnosis and Risk Grading](https://doi.org/10.3390/s26123878) | Yue Wang et al. | Sensors | 0 | Multi-sensor fusion |  | 🔓 |
 | 2026 | [Drone-Based Multi-Modal Inspection of Wind Turbine Rotor Blades](https://doi.org/10.58286/33391) | Ramanan Sridaran Venkat et al. | e-Journal of Nondestructive Testing | 0 | Radiometric calibration, Multi-sensor fusion |  | 🔓 |
+| 2026 | [Selvitys dronepohjaisen kunnossapidon kehittämisestä tuulivoimaloille](https://openalex.org/W7157508902) | Elias Lamminniemi | Theseus (Ammattikorkeakoulujen) | 0 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
 | 2026 | [UAV-based infrared thermography for laminar–turbulent transition detection on wind turbines in operation: quantifying motion-blur effects using blade image velocity](https://doi.org/10.5194/wes-2026-79) | Lennart Rackwitz et al. | Wind Energy Science Discussions | 0 |  |  | 🔓 |
 | 2026 | [UAV-based thermographic flow inspection on operational wind turbines](https://doi.org/10.1088/1742-6596/3224/6/062029) | Lennart Rackwitz et al. | Journal of Physics Conference Series | 0 |  |  | 🔓 |
 | 2026 | [Wind turbine inspection and monitoring on an operational wind farm in Ireland](https://doi.org/10.1016/b978-0-443-38315-1.00018-0) | Vikram Pakrashi et al. | Elsevier eBooks | 0 |  |  |  |
@@ -41,6 +42,7 @@
 | 2023 | [The Segmentation of Wind Turbine Defect Based on UAV Infrared Image](https://doi.org/10.21611/qirt.2023.05) | Zijun Wang et al. | Proccedings of the 2023 International Conference on Quantitative InfraRed Thermography | 1 |  |  | 🔓 |
 | 2023 | [Advances in data science and maintenance management in renewable energy](https://openalex.org/W7126577153) | Isaac Segovia Ramírez | RUIdeRA - Institutional University Repository (University of Castilla-La Mancha) | 0 | Machine learning |  | 🔓 |
 | 2022 | [Non-Destructive Techniques for the Condition and Structural Health Monitoring of Wind Turbines: A Literature Review of the Last 20 Years](https://doi.org/10.3390/s22041627) | Marco Civera et al. | Sensors | 187 | Review / survey |  | 🔓 |
+| 2022 | [Review of robot-based damage assessment for offshore wind turbines](https://doi.org/10.1016/j.rser.2022.112187) | Yiming Liu et al. | Renewable and Sustainable Energy Reviews | 117 | Review / survey |  |  |
 | 2020 | [From Land to Sea](https://doi.org/10.1201/9780429172410-16) | David R. Green et al. | CRC Press eBooks | 1 |  |  |  |
 | 2020 | [ผลตภณฑชวภาพสำหรบวสดเชงวศวกรรมจากอพอกซเรซนทปรบปรงดวย ยางธรรมชาตอพอกไซดและนาโนเซลลโลส](https://openalex.org/W7215171950) | Aunnuda Lanna et al. | Journal for Community Development and Life Quality | 0 |  |  | 🔓 |
 | 2018 | [Identification of an effective nondestructive technique for bond defect determination in laminate composites—A technical review](https://doi.org/10.1177/0021998318766595) | Muhammad Tariq Asif et al. | Journal of Composite Materials | 39 | Review / survey |  | 🔓 |

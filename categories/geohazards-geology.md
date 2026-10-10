@@ -1,6 +1,6 @@
 # Landslides, rock & geology
 
-[← back to overview](../README.md) · 95 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
+[← back to overview](../README.md) · 98 papers · newest first · ✅ reviewed · 📣 featured on LinkedIn · 🔓 open access
 
 | Year | Paper | Authors | Venue | Cites | Methods | Sensor | |
 |---|---|---|---|--:|---|---|---|
@@ -60,6 +60,7 @@
 | 2022 | [First Results of a Drone Thermal Imaging Survey of Geological Objects in the Lake Baikal Area](https://doi.org/10.1134/s1028334x22600347) | Oksana V. Lunina et al. | Doklady Earth Sciences | 1 | Review / survey |  |  |
 | 2022 | [Satellite Imagery Application for Searching Buried Intrusive Structures](https://doi.org/10.15407/scine18.02.059) | Volodymyr Filipovych et al. | Science and innovation | 1 | Multi-sensor fusion |  | 🔓 |
 | 2022 | [Investigation of Rock Slope Stability Using Drone-Based Thermal Sensor](https://doi.org/10.11113/jagst.v2n1.30) | Muhammad Latifi Mohd Yaacob et al. | Journal of Advanced Geospatial Science & Technology | 0 |  |  | 🔓 |
+| 2022 | [Zastosowania dronów w badaniach rzeźby terenu, struktury i tekstury osadów na przykładach z Polski Środkowej](https://doi.org/10.18778/1427-9711.21.03) | Maciej Kossowski | Acta Universitatis Lodziensis Folia Geographica Physica | 0 | 3D / photogrammetry |  | 🔓 |
 | 2021 | [An Infrared Thermography Approach to Evaluate the Strength of a Rock Cliff](https://doi.org/10.3390/rs13071265) | Marco Loche et al. | Remote Sensing | 34 |  |  | 🔓 |
 | 2021 | [Applying Close Range Non-Destructive Techniques for the Detection of Conservation Problems in Rock-Carved Cultural Heritage Sites](https://doi.org/10.3390/rs13051040) | William Frodella et al. | Remote Sensing | 29 | 3D / photogrammetry |  | 🔓 |
 | 2021 | [Emergency Survey and Stability Analysis of a Rainfall-Induced Soil-Rock Mixture Landslide at Chongqing City, China](https://doi.org/10.3389/feart.2021.774200) | Chang Zhou et al. | Frontiers in Earth Science | 20 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
@@ -97,5 +98,7 @@
 | 2016 | [Early sinkhole detection using a drone-based thermal camera and image processing](https://doi.org/10.1016/j.infrared.2016.08.009) | Eun Ju Lee et al. | Infrared Physics & Technology | 85 | Deep learning |  |  |
 | 2016 | [On the Feasibility of Imaging Carbonatite-Hosted Rare Earth Element Deposits Using Remote Sensing](https://doi.org/10.2113/econgeo.111.3.641) | David A. Neave et al. | Economic Geology | 72 | Multi-sensor fusion |  | 🔓 |
 | 2016 | [Modern Technologies of Geomatics Applied to Engineering Geology](https://doi.org/10.21065/25205978.1.1) | Riccardo Salvini | Advanced Geosciences | 1 | 3D / photogrammetry, Multi-sensor fusion |  | 🔓 |
+| 2016 | [DRONES, APOYO FRECUENTE DE LA INVESTIGACIÓN CIENTÍFICA. PUEDEN SER AÉREOS, ACUÁTICOS Y TERRESTRES](https://openalex.org/W2738595712) | Isela Alvarado | Gaceta UNAM (2010-2016) | 0 |  |  |  |
 | 2016 | [Drones: Nuevas aplicaciones geomáticas en el campo de las Ciencias de la Tierra](https://openalex.org/W3183267629) | J. Fernández Lozano et al. | Geotemas ( Madrid ) | 0 | 3D / photogrammetry, Multi-sensor fusion |  |  |
+| 2016 | [드론과 열 영상 카메라의 영상분석을 이용한 자동 싱크홀 탐지](https://openalex.org/W2562346990) | 이은주 et al. |  | 0 |  |  |  |
 |  | [Time-lapse and infrared thermographic defects/features classifications for ageing building envelopes and secondary landslide hazards](https://openalex.org/W7116637630) | Sin Yau Chiu | PolyU Institutional Research Archive (Hong Kong Polytechnic University) | 0 | Machine learning, Radiometric calibration |  |  |

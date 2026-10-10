@@ -8,7 +8,7 @@ Usage:
     python tools/fetch_openalex.py --max-pages 2        # quick test
 
 Big pulls can exceed the free daily limit. The script then saves its place
-(data/cache/fetch_state.json) and merges what it got; run the same command
+(data/fetch_state.json) and merges what it got; run the same command
 again later to continue. Use --restart to start a query from scratch.
 
 Optional environment variables:
@@ -31,7 +31,7 @@ import requests
 
 sys.path.insert(0, os.path.dirname(__file__))
 from common import (  # noqa: E402
-    AUTO_FIELDS, CACHE_PATH, FIELDS, Taxonomy, _preference, dedupe, load_cache, load_db, norm_doi,
+    AUTO_FIELDS, FIELDS, ROOT, Taxonomy, _preference, dedupe, load_cache, load_db, norm_doi,
     norm_title, save_cache, save_db,
 )
 
@@ -52,7 +52,7 @@ QUERIES = {
 # errata, paratext, conference abstracts and other non-papers.
 WORK_TYPES = ("article|review|conference-paper|preprint|book-chapter|book|dissertation|report"
               "|dataset|data-paper|software|software-paper")
-STATE_PATH = CACHE_PATH.parent / "fetch_state.json"
+STATE_PATH = ROOT / "data" / "fetch_state.json"  # committed, so GitHub Actions can resume
 SELECT = ("id,doi,title,publication_year,publication_date,type,cited_by_count,primary_location,"
           "open_access,authorships,abstract_inverted_index,keywords")
 
@@ -250,7 +250,6 @@ def main() -> None:
           f"new {added} | database now {len(db)} papers -> data/papers.csv")
     if unfinished:
         print(f"Not finished: {', '.join(unfinished)}. Re-run the same command to continue.")
-    print("Next: python tools/build_readme.py")
 
 
 if __name__ == "__main__":

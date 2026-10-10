@@ -1,11 +1,9 @@
-name: Weekly update
+name: Collect papers
 
 on:
   schedule:
-    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+    - cron: "0 6 * * *"   # daily 06:00 UTC
   workflow_dispatch:
-  push:
-    paths: ["data/papers.csv", "taxonomy.yaml", "templates/**", "tools/**"]
 
 permissions:
   contents: write
@@ -26,19 +24,17 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt pytest
       - run: pytest -q
-      - name: Fetch all papers from OpenAlex (new papers + updated citation counts)
-        if: github.event_name != 'push'
-        run: python tools/fetch_openalex.py --query core
-      - name: Fetch full-text tier (needs the OPENALEX_API_KEY secret; ~180 requests)
-        if: github.event_name != 'push' && env.OPENALEX_API_KEY != ''
+      - name: Core search (Mondays) - new papers + updated citation counts
+        run: |
+          if [ "$(date -u +%u)" = 1 ]; then python tools/fetch_openalex.py --query core; fi
+      - name: Full-text search (daily; resumes where the last run stopped)
         run: python tools/fetch_openalex.py --query fulltext
-      - run: python tools/build_readme.py
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md REVIEW_QUEUE.md categories data/papers.csv
+          git add data/papers.csv data/fetch_state.json
           git diff --cached --quiet && exit 0
-          git commit -m "Update paper list ($(date +%F))"
+          git commit -m "Collect papers ($(date -u +%F))"
           git pull --rebase   # someone may have pushed while this job ran
           git push

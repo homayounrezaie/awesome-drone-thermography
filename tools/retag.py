@@ -1,7 +1,7 @@
 """Re-run relevance + tagging on every paper using the local cache (no API calls).
 
 Run this after editing taxonomy.yaml:
-    python tools/retag.py && python tools/build_readme.py
+    python tools/retag.py
 """
 
 from __future__ import annotations

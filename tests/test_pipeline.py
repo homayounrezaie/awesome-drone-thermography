@@ -3,7 +3,6 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
-from build_readme import md  # noqa: E402
 from common import Taxonomy, dedupe, norm_doi, norm_title  # noqa: E402
 from fetch_openalex import abstract_from_index, merge  # noqa: E402
 
@@ -70,6 +69,5 @@ def test_merge_preserves_manual_fields():
     assert db[0]["notes"] == "great paper" and db[0]["first_seen"] == "2026-01-01"
 
 
-def test_abstract_and_md():
+def test_abstract():
     assert abstract_from_index({"thermal": [1], "UAV": [0]}) == "UAV thermal"
-    assert md("a | b <i>c</i>") == "a \\| b c"

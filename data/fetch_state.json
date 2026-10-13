@@ -1,8 +1,8 @@
 {
  "fulltext": {
   "filter": "fulltext.search:(UAV OR UAVs OR UAS OR drone OR drones OR \"unmanned aerial\" OR \"unmanned aircraft\" OR RPAS OR quadcopter OR multicopter OR multirotor OR \"remotely piloted\") AND (\"thermal camera\" OR \"thermal cameras\" OR \"thermal imagery\" OR \"thermal infrared\" OR thermography OR \"thermal images\" OR \"thermal imaging\" OR \"infrared camera\"),is_retracted:false,type:article|review|conference-paper|preprint|book-chapter|book|dissertation|report|dataset|data-paper|software|software-paper",
-  "cursor": "Ils2My42MjIxNDcsIDE2NTU5NDI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI4MzM2ODg1NyddIg==",
-  "fetched": 6200,
-  "updated": "2026-10-12T14:48:29.236146"
+  "cursor": "IlsxLjU4Mjk5NDUsIDE1Njk4ODgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk4MTE5NDEyNSddIg==",
+  "fetched": 26200,
+  "updated": "2026-10-13T13:51:04.529166"
  }
 }
